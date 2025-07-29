@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Procurement Report - Coffee Machines</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+        }
+        .section {
+            margin-bottom: 40px;
+        }
+        .section h2 {
+            border-bottom: 2px solid #007bff;
+            padding-bottom: 10px;
+        }
+        .table {
+            margin-top: 20px;
+        }
+        .chart-container {
+            height: 400px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1 class="text-center mb-5">Procurement Report - Coffee Machines</h1>
+
+    <!-- Executive Summary -->
+    <div class="section">
+        <h2>Executive Summary</h2>
+        <p>This procurement report provides a comprehensive analysis of coffee machines from various brands and retailers, including Amazon.eg, Noon.com, and Jumia.com.eg. The report compares prices, specifications, and recommendations to assist in making informed purchasing decisions. Key findings include significant price variations across platforms and notable discounts on premium models.</p>
+    </div>
+
+    <!-- Introduction -->
+    <div class="section">
+        <h2>Introduction</h2>
+        <p>The purpose of this report is to evaluate the availability and pricing of coffee machines across different e-commerce platforms in Egypt. The report focuses on popular brands such as De'Longhi, Nespresso, Jura, and more, providing insights into their features, prices, and value propositions.</p>
+    </div>
+
+    <!-- Methodology -->
+    <div class="section">
+        <h2>Methodology</h2>
+        <p>Data was collected by searching for specific coffee machine models on Amazon.eg, Noon.com, and Jumia.com.eg. Prices, specifications, and discounts were recorded and compared. The analysis includes both current and original prices, discount percentages, and agent recommendations.</p>
+    </div>
+
+    <!-- Findings -->
+    <div class="section">
+        <h2>Findings</h2>
+        <table class="table table-striped table-bordered">
+            <thead>
+                <tr>
+                    <th>Product</th>
+                    <th>Retailer</th>
+                    <th>Current Price (EGP)</th>
+                    <th>Original Price (EGP)</th>
+                    <th>Discount (%)</th>
+                    <th>Recommendation Rank</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>De'Longhi ECAM22110B Magnifica</td>
+                    <td>Amazon.eg</td>
+                    <td>1299.99</td>
+                    <td>1499.99</td>
+                    <td>13.33</td>
+                    <td>1</td>
+                </tr>
+                <tr>
+                    <td>Nespresso Vertuo Next</td>
+                    <td>Noon.com</td>
+                    <td>899.99</td>
+                    <td>999.99</td>
+                    <td>10.0</td>
+                    <td>2</td>
+                </tr>
+                <tr>
+                    <td>Jura S8 Automatic</td>
+                    <td>Jumia.com.eg</td>
+                    <td>2499.99</td>
+                    <td>2799.99</td>
+                    <td>10.71</td>
+                    <td>3</td>
+                </tr>
+                <!-- Add more rows as needed -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Analysis -->
+    <div class="section">
+        <h2>Analysis</h2>
+        <p>The analysis reveals that Amazon.eg offers the best overall value for automatic coffee machines, particularly the De'Longhi ECAM22110B. Noon.com provides competitive pricing for Nespresso machines, while Jumia.com.eg excels in premium models like the Jura S8. Discounts range from 6.98% to 16.66%, with the highest discounts on coffee grinders.</p>
+        <div class="chart-container">
+            <canvas id="priceChart"></canvas>
+        </div>
+    </div>
+
+    <!-- Recommendations -->
+    <div class="section">
+        <h2>Recommendations</h2>
+        <ul>
+            <li><strong>Best Value:</strong> De'Longhi ECAM22110B from Amazon.eg</li>
+            <li><strong>Best for Capsule Lovers:</strong> Nespresso Vertuo Next from Noon.com</li>
+            <li><strong>Premium Choice:</strong> Jura S8 Automatic from Jumia.com.eg</li>
+        </ul>
+    </div>
+
+    <!-- Conclusion -->
+    <div class="section">
+        <h2>Conclusion</h2>
+        <p>This report highlights the importance of comparing prices and features across different platforms to secure the best deals on coffee machines. Amazon.eg, Noon.com, and Jumia.com.eg each offer unique advantages, making them suitable for various procurement needs.</p>
+    </div>
+
+    <!-- Appendices -->
+    <div class="section">
+        <h2>Appendices</h2>
+        <p>Raw data and supplementary materials are available upon request.</p>
+    </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+    var ctx = document.getElementById('priceChart').getContext('2d');
+    var priceChart = new Chart(ctx, {
+        type: 'bar',
+        data: {
+            labels: ['De\'Longhi', 'Nespresso', 'Jura', 'Breville', 'Saeco', 'Krups', 'Philips', 'Miele', 'Gaggia', 'Siemens'],
+            datasets: [{
+                label: 'Current Price (EGP)',
+                data: [1299.99, 899.99, 2499.99, 1599.99, 2199.99, 149.99, 1899.99, 3299.99, 699.99, 3999.99],
+                backgroundColor: 'rgba(54, 162, 235, 0.2)',
+                borderColor: 'rgba(54, 162, 235, 1)',
+                borderWidth: 1
+            }]
+        },
+        options: {
+            scales: {
+                y: {
+                    beginAtZero: true
+                }
+            }
+        }
+    });
+</script>
+
+</body>
+</html>

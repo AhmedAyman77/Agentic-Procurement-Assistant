@@ -1,0 +1,284 @@
+{
+  "products": [
+    {
+      "page_url": "https://www.amazon.eg/s?k=De%27Longhi+coffee+machines",
+      "product_title": "De'Longhi ECAM22110B Magnifica Automatic Coffee Machine",
+      "product_image_url": "https://m.media-amazon.com/images/I/71+5K5v9zZL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B123456789",
+      "product_current_price": 1299.99,
+      "product_original_price": 1499.99,
+      "product_discount_percentage": 13.33,
+      "product_specs": [
+        {
+          "specification_name": "Type",
+          "specification_value": "Automatic"
+        },
+        {
+          "specification_name": "Grinder",
+          "specification_value": "Integrated Burr Grinder"
+        },
+        {
+          "specification_name": "Beverages",
+          "specification_value": "Espresso, Cappuccino"
+        }
+      ],
+      "agent_recommendation_rank": 1,
+      "agent_recommendation_notes": [
+        "Best overall value for automatic coffee machines",
+        "Compact design suitable for small kitchens"
+      ]
+    },
+    {
+      "page_url": "https://www.noon.com/egypt-en/search?q=Nespresso+Vertuo+coffee+machines",
+      "product_title": "Nespresso Vertuo Next Coffee Machine by De'Longhi",
+      "product_image_url": "https://f.nooncdn.com/products/tr:n-t_240/Ne7V3e7Z8e8eZ/Nespresso-Vertuo-Next-Coffee-Machine.jpg",
+      "product_url": "https://www.noon.com/egypt-en/p/49876542",
+      "product_current_price": 899.99,
+      "product_original_price": 999.99,
+      "product_discount_percentage": 10.0,
+      "product_specs": [
+        {
+          "specification_name": "Technology",
+          "specification_value": "Centrifusion"
+        },
+        {
+          "specification_name": "Capsules",
+          "specification_value": "Complimentary Set Included"
+        },
+        {
+          "specification_name": "Beverages",
+          "specification_value": "Coffee, Espresso"
+        }
+      ],
+      "agent_recommendation_rank": 2,
+      "agent_recommendation_notes": [
+        "Innovative brewing technology",
+        "Great for capsule coffee lovers"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/catalog/?q=Jura+automatic+coffee+machines",
+      "product_title": "Jura S8 Automatic Coffee Machine",
+      "product_image_url": "https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/71/917741/1.jpg?8333",
+      "product_url": "https://www.jumia.com.eg/Jura-S8-Automatic-Coffee-Machine-23456789.html",
+      "product_current_price": 2499.99,
+      "product_original_price": 2799.99,
+      "product_discount_percentage": 10.71,
+      "product_specs": [
+        {
+          "specification_name": "Display",
+          "specification_value": "Color TFT"
+        },
+        {
+          "specification_name": "Pump Pressure",
+          "specification_value": "15 Bar"
+        },
+        {
+          "specification_name": "Milk Froth",
+          "specification_value": "Fine Foam Technology"
+        }
+      ],
+      "agent_recommendation_rank": 3,
+      "agent_recommendation_notes": [
+        "Premium build quality",
+        "Excellent milk frothing capabilities"
+      ]
+    },
+    {
+      "page_url": "https://www.amazon.eg/s?k=Breville+espresso+machines",
+      "product_title": "Breville BES870XL Barista Express Espresso Machine",
+      "product_image_url": "https://m.media-amazon.com/images/I/81tW77-q7dL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/A987654321",
+      "product_current_price": 1599.99,
+      "product_original_price": 1799.99,
+      "product_discount_percentage": 11.11,
+      "product_specs": [
+        {
+          "specification_name": "Grinder",
+          "specification_value": "Conical Burr"
+        },
+        {
+          "specification_name": "Extraction",
+          "specification_value": "Precise Espresso"
+        },
+        {
+          "specification_name": "Material",
+          "specification_value": "Stainless Steel"
+        }
+      ],
+      "agent_recommendation_rank": 4,
+      "agent_recommendation_notes": [
+        "Professional-grade espresso extraction",
+        "Durable construction"
+      ]
+    },
+    {
+      "page_url": "https://www.noon.com/egypt-en/search?q=Saeco+super-automatic+coffee+machines",
+      "product_title": "Saeco Xelsis SM7685/00 Super-Automatic Espresso Machine",
+      "product_image_url": "https://f.nooncdn.com/products/tr:n-t_240/Sa7e8eZ/Saeco-Xelsis-SM7685-00.jpg",
+      "product_url": "https://www.noon.com/egypt-en/p/56789012",
+      "product_current_price": 2199.99,
+      "product_original_price": 2499.99,
+      "product_discount_percentage": 12.0,
+      "product_specs": [
+        {
+          "specification_name": "Profiles",
+          "specification_value": "Personalized Coffee"
+        },
+        {
+          "specification_name": "Grinder",
+          "specification_value": "Ceramic"
+        },
+        {
+          "specification_name": "Interface",
+          "specification_value": "Touchscreen"
+        }
+      ],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_notes": [
+        "Highly customizable coffee profiles",
+        "Easy-to-clean design"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/catalog/?q=Krups+coffee+grinders",
+      "product_title": "Krups GX5000 Professional Electric Coffee Grinder",
+      "product_image_url": "https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/07/714031/1.jpg?2353",
+      "product_url": "https://www.jumia.com.eg/Krups-GX5000-Grinder-12345678.html",
+      "product_current_price": 149.99,
+      "product_original_price": 179.99,
+      "product_discount_percentage": 16.66,
+      "product_specs": [
+        {
+          "specification_name": "Motor",
+          "specification_value": "Heavy-Duty"
+        },
+        {
+          "specification_name": "Blades",
+          "specification_value": "Stainless Steel"
+        },
+        {
+          "specification_name": "Grind Settings",
+          "specification_value": "17"
+        }
+      ],
+      "agent_recommendation_rank": 6,
+      "agent_recommendation_notes": [
+        "Versatile grind settings",
+        "Powerful motor for consistent grinding"
+      ]
+    },
+    {
+      "page_url": "https://www.amazon.eg/s?k=Philips+LatteGo+coffee+machines",
+      "product_title": "Philips 3200 Series LatteGo EP3246/74 Coffee Machine",
+      "product_image_url": "https://m.media-amazon.com/images/I/71GkT6v9zZL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/Z987654321",
+      "product_current_price": 1899.99,
+      "product_original_price": 2099.99,
+      "product_discount_percentage": 9.52,
+      "product_specs": [
+        {
+          "specification_name": "Grinder Settings",
+          "specification_value": "12-Step"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "Intuitive Touch"
+        },
+        {
+          "specification_name": "Milk Frother",
+          "specification_value": "LatteGo Technology"
+        }
+      ],
+      "agent_recommendation_rank": 7,
+      "agent_recommendation_notes": [
+        "Excellent latte quality",
+        "User-friendly interface"
+      ]
+    },
+    {
+      "page_url": "https://www.noon.com/egypt-en/search?q=Miele+built-in+coffee+machines",
+      "product_title": "Miele CM6350 Countertop Coffee System",
+      "product_image_url": "https://f.nooncdn.com/products/tr:n-t_240/Mi7e8eZ/Miele-CM6350.jpg",
+      "product_url": "https://www.noon.com/egypt-en/p/67890123",
+      "product_current_price": 3299.99,
+      "product_original_price": 3599.99,
+      "product_discount_percentage": 8.33,
+      "product_specs": [
+        {
+          "specification_name": "Function",
+          "specification_value": "OneTouch"
+        },
+        {
+          "specification_name": "Profiles",
+          "specification_value": "Programmable User"
+        },
+        {
+          "specification_name": "Design",
+          "specification_value": "Stainless Steel"
+        }
+      ],
+      "agent_recommendation_rank": 8,
+      "agent_recommendation_notes": [
+        "Luxurious design",
+        "Advanced programmable features"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/catalog/?q=Gaggia+classic+espresso+machines",
+      "product_title": "Gaggia Classic Pro Espresso Machine",
+      "product_image_url": "https://eg.jumia.is/unsafe/fit-in/680x680/filters:fill(white)/product/89/917741/1.jpg?7333",
+      "product_url": "https://www.jumia.com.eg/Gaggia-Classic-Pro-23456789.html",
+      "product_current_price": 699.99,
+      "product_original_price": 799.99,
+      "product_discount_percentage": 12.5,
+      "product_specs": [
+        {
+          "specification_name": "Portafilter",
+          "specification_value": "58mm"
+        },
+        {
+          "specification_name": "Steam Wand",
+          "specification_value": "Commercial-Style"
+        },
+        {
+          "specification_name": "Material",
+          "specification_value": "Brass Components"
+        }
+      ],
+      "agent_recommendation_rank": 9,
+      "agent_recommendation_notes": [
+        "Classic design with modern features",
+        "Great for espresso enthusiasts"
+      ]
+    },
+    {
+      "page_url": "https://www.amazon.eg/s?k=Siemens+built-in+coffee+systems",
+      "product_title": "Siemens EQ.9 Plus Connect TI9573X1RW Built-In Coffee Machine",
+      "product_image_url": "https://m.media-amazon.com/images/I/81tW77-q7dL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/X987654321",
+      "product_current_price": 3999.99,
+      "product_original_price": 4299.99,
+      "product_discount_percentage": 6.98,
+      "product_specs": [
+        {
+          "specification_name": "Control",
+          "specification_value": "App-Based"
+        },
+        {
+          "specification_name": "Cleaning",
+          "specification_value": "AutoMilk Clean"
+        },
+        {
+          "specification_name": "Settings",
+          "specification_value": "Personalized Beverage"
+        }
+      ],
+      "agent_recommendation_rank": 10,
+      "agent_recommendation_notes": [
+        "Smart connectivity features",
+        "Premium built-in solution"
+      ]
+    }
+  ]
+}
