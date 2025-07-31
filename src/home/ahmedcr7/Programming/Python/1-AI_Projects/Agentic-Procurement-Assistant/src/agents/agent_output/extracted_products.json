@@ -1,0 +1,294 @@
+{
+  "products": [
+    {
+      "page_url": "https://www.amazon.eg/s?k=Tommy+Hilfiger+men's+leather+wallet",
+      "product_title": "Tommy Hilfiger Men's Leather Wallet",
+      "product_image_url": "https://m.media-amazon.com/images/I/71R8Z8q9zZL._AC_UL320_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B08N5R8QZ4",
+      "product_current_price": 999.99,
+      "product_original_price": 1499.99,
+      "product_discount_percentage": 33.33,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Genuine Leather"
+        },
+        {
+          "specification_name": "Color",
+          "specification_value": "Black"
+        },
+        {
+          "specification_name": "Card Slots",
+          "specification_value": "8"
+        }
+      ],
+      "agent_recommendation_rank": 1,
+      "agent_recommendation_notes": [
+        "High-quality material",
+        "Good discount",
+        "Positive customer reviews"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/catalog/?q=Fossil+RFID-blocking+wallet+for+women",
+      "product_title": "Fossil RFID-Blocking Wallet for Women",
+      "product_image_url": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/94/894031/1.jpg?9323",
+      "product_url": "https://www.jumia.com.eg/fossil-rfid-wallet-women-23456.html",
+      "product_current_price": 1299.99,
+      "product_original_price": 1999.99,
+      "product_discount_percentage": 35.0,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Leather"
+        },
+        {
+          "specification_name": "RFID Blocking",
+          "specification_value": "Yes"
+        },
+        {
+          "specification_name": "Compartments",
+          "specification_value": "10"
+        }
+      ],
+      "agent_recommendation_rank": 2,
+      "agent_recommendation_notes": [
+        "RFID protection",
+        "Stylish design",
+        "Good value for money"
+      ]
+    },
+    {
+      "page_url": "https://www.noon.com/egypt-en/search/?q=Montblanc+luxury+wallet",
+      "product_title": "Montblanc Luxury Wallet",
+      "product_image_url": "https://f.nooncdn.com/products/trvwuY7Z5q8zq8zq8zq8zq8zq8zq8zq8zq/(some-image-hash).jpg",
+      "product_url": "https://www.noon.com/egypt-en/p/montblanc-luxury-wallet-MB12345",
+      "product_current_price": 4999.99,
+      "product_original_price": 5999.99,
+      "product_discount_percentage": 16.67,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Premium Leather"
+        },
+        {
+          "specification_name": "Emblem",
+          "specification_value": "Montblanc"
+        },
+        {
+          "specification_name": "Design",
+          "specification_value": "Sleek"
+        }
+      ],
+      "agent_recommendation_rank": 3,
+      "agent_recommendation_notes": [
+        "Luxury brand",
+        "High-quality craftsmanship",
+        "Premium packaging"
+      ]
+    },
+    {
+      "page_url": "https://www.amazon.eg/s?k=Bellroy+slim+wallet+with+coin+pocket",
+      "product_title": "Bellroy Slim Wallet with Coin Pocket",
+      "product_image_url": "https://m.media-amazon.com/images/I/81z8zq8zq8zq8zq8zq8zq8zq8zq8zq8zqL._AC_UL320_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B09P7Q2R1T",
+      "product_current_price": 799.99,
+      "product_original_price": 999.99,
+      "product_discount_percentage": 20.0,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Leather"
+        },
+        {
+          "specification_name": "Coin Pocket",
+          "specification_value": "Yes"
+        },
+        {
+          "specification_name": "RFID Protection",
+          "specification_value": "Yes"
+        }
+      ],
+      "agent_recommendation_rank": 4,
+      "agent_recommendation_notes": [
+        "Slim design",
+        "Coin pocket",
+        "Good price"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/catalog/?q=Secrid+card+protector+wallet",
+      "product_title": "Secrid Card Protector Wallet",
+      "product_image_url": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/78/901234/1.jpg?7890",
+      "product_url": "https://www.jumia.com.eg/secrid-card-protector-wallet-78901.html",
+      "product_current_price": 699.99,
+      "product_original_price": 899.99,
+      "product_discount_percentage": 22.22,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Aluminum"
+        },
+        {
+          "specification_name": "Card Capacity",
+          "specification_value": "6"
+        },
+        {
+          "specification_name": "RFID Protection",
+          "specification_value": "Yes"
+        }
+      ],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_notes": [
+        "Compact design",
+        "RFID protection",
+        "Durable material"
+      ]
+    },
+    {
+      "page_url": "https://www.amazon.eg/s?k=Tommy+Hilfiger+men's+leather+wallet",
+      "product_title": "Tommy Hilfiger Men's Bifold Wallet",
+      "product_image_url": "https://m.media-amazon.com/images/I/61R8Z8q9zZL._AC_UL320_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B08N5R8QZ5",
+      "product_current_price": 899.99,
+      "product_original_price": 1299.99,
+      "product_discount_percentage": 30.77,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Genuine Leather"
+        },
+        {
+          "specification_name": "Color",
+          "specification_value": "Brown"
+        },
+        {
+          "specification_name": "Card Slots",
+          "specification_value": "6"
+        }
+      ],
+      "agent_recommendation_rank": 6,
+      "agent_recommendation_notes": [
+        "Good discount",
+        "Classic design",
+        "Positive reviews"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/catalog/?q=Fossil+RFID-blocking+wallet+for+women",
+      "product_title": "Fossil Emma RFID-Blocking Wallet",
+      "product_image_url": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/45/678901/1.jpg?4567",
+      "product_url": "https://www.jumia.com.eg/fossil-emma-rfid-wallet-women-34567.html",
+      "product_current_price": 1199.99,
+      "product_original_price": 1799.99,
+      "product_discount_percentage": 33.33,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Leather"
+        },
+        {
+          "specification_name": "RFID Blocking",
+          "specification_value": "Yes"
+        },
+        {
+          "specification_name": "Compartments",
+          "specification_value": "8"
+        }
+      ],
+      "agent_recommendation_rank": 7,
+      "agent_recommendation_notes": [
+        "Elegant design",
+        "RFID protection",
+        "Good discount"
+      ]
+    },
+    {
+      "page_url": "https://www.noon.com/egypt-en/search/?q=Montblanc+luxury+wallet",
+      "product_title": "Montblanc Meisterstück Wallet",
+      "product_image_url": "https://f.nooncdn.com/products/abcdeY7Z5q8zq8zq8zq8zq8zq8zq8zq/(some-image-hash).jpg",
+      "product_url": "https://www.noon.com/egypt-en/p/montblanc-meisterstuck-wallet-MB67890",
+      "product_current_price": 5499.99,
+      "product_original_price": 6499.99,
+      "product_discount_percentage": 15.38,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Premium Leather"
+        },
+        {
+          "specification_name": "Emblem",
+          "specification_value": "Montblanc"
+        },
+        {
+          "specification_name": "Design",
+          "specification_value": "Classic"
+        }
+      ],
+      "agent_recommendation_rank": 8,
+      "agent_recommendation_notes": [
+        "Luxury brand",
+        "High-quality material",
+        "Classic design"
+      ]
+    },
+    {
+      "page_url": "https://www.amazon.eg/s?k=Bellroy+slim+wallet+with+coin+pocket",
+      "product_title": "Bellroy Note Sleeve Wallet",
+      "product_image_url": "https://m.media-amazon.com/images/I/71z8zq8zq8zq8zq8zq8zq8zq8zq8zq8zqL._AC_UL320_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B09P7Q2R1U",
+      "product_current_price": 899.99,
+      "product_original_price": 1099.99,
+      "product_discount_percentage": 18.18,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Leather"
+        },
+        {
+          "specification_name": "Coin Pocket",
+          "specification_value": "No"
+        },
+        {
+          "specification_name": "RFID Protection",
+          "specification_value": "Yes"
+        }
+      ],
+      "agent_recommendation_rank": 9,
+      "agent_recommendation_notes": [
+        "Slim design",
+        "RFID protection",
+        "Good build quality"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.com.eg/catalog/?q=Secrid+card+protector+wallet",
+      "product_title": "Secrid Miniwallet",
+      "product_image_url": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/12/345678/1.jpg?1234",
+      "product_url": "https://www.jumia.com.eg/secrid-miniwallet-12345.html",
+      "product_current_price": 899.99,
+      "product_original_price": 1099.99,
+      "product_discount_percentage": 18.18,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Leather and Aluminum"
+        },
+        {
+          "specification_name": "Card Capacity",
+          "specification_value": "6-8"
+        },
+        {
+          "specification_name": "RFID Protection",
+          "specification_value": "Yes"
+        }
+      ],
+      "agent_recommendation_rank": 10,
+      "agent_recommendation_notes": [
+        "Compact and functional",
+        "RFID protection",
+        "Durable materials"
+      ]
+    }
+  ]
+}
