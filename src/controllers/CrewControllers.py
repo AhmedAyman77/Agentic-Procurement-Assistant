@@ -3,7 +3,7 @@ from typing import List
 from helpers import get_settings, Settings
 from fastapi import Request
 
-class RunCrewControllers():
+class CrewControllers():
     """
     this class is responsible for running the crew agent.
     """

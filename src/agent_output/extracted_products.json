@@ -1,13 +1,13 @@
 {
   "products": [
     {
-      "page_url": "https://www.amazon.eg/s?k=Tommy+Hilfiger+men%27s+leather+wallet",
+      "page_url": "https://www.amazon.eg/search?query=Tommy+Hilfiger+leather+wallet",
       "product_title": "Tommy Hilfiger Men's Leather Wallet",
-      "product_image_url": "https://m.media-amazon.com/images/I/81eTn8mZ9WL._AC_UL320_.jpg",
-      "product_url": "https://www.amazon.eg/Tommy-Hilfiger-Mens-Leather-Wallet/dp/B08N5R5Z9W",
-      "product_current_price": 1299.0,
-      "product_original_price": 1499.0,
-      "product_discount_percentage": 13.34,
+      "product_image_url": "https://images-na.ssl-images-amazon.com/images/I/81XY9JY89Z.jpg",
+      "product_url": "https://www.amazon.eg/Tommy-Hilfiger-Mens-Leather-Wallet/dp/B0894JY89Z",
+      "product_current_price": 1299.99,
+      "product_original_price": 1499.99,
+      "product_discount_percentage": 13.33,
       "product_specs": [
         {
           "specification_name": "Material",
@@ -15,144 +15,144 @@
         },
         {
           "specification_name": "Card Slots",
-          "specification_value": "6"
+          "specification_value": "8"
         },
         {
-          "specification_name": "Bill Compartments",
-          "specification_value": "2"
+          "specification_name": "Coin Pocket",
+          "specification_value": "Yes"
         }
       ],
       "agent_recommendation_rank": 1,
       "agent_recommendation_notes": [
         "High-quality leather",
-        "Iconic brand logo",
+        "Brand reputation",
         "Good discount"
       ]
     },
     {
-      "page_url": "https://www.jumia.com.eg/s?q=Fossil+RFID-blocking+wallet+for+women",
-      "product_title": "Fossil RFID-Blocking Wallet for Women",
-      "product_image_url": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/94/856023/1.jpg?9323",
-      "product_url": "https://www.jumia.com.eg/Fossil-RFID-Blocking-Wallet-for-Women-Brown-234567.html",
-      "product_current_price": 1499.0,
-      "product_original_price": 1799.0,
-      "product_discount_percentage": 16.67,
+      "page_url": "https://www.jumia.eg/search?query=RFID+blocking+wallet",
+      "product_title": "RFID Blocking Slim Wallet",
+      "product_image_url": "https://egypt.jumia.net/images/I/7123456789.jpg",
+      "product_url": "https://www.jumia.eg/rfid-blocking-slim-wallet-234567/",
+      "product_current_price": 299.99,
+      "product_original_price": 399.99,
+      "product_discount_percentage": 25.0,
       "product_specs": [
         {
           "specification_name": "Material",
-          "specification_value": "Genuine Leather"
+          "specification_value": "Synthetic Leather"
         },
         {
-          "specification_name": "RFID Blocking",
+          "specification_name": "RFID Protection",
           "specification_value": "Yes"
         },
         {
-          "specification_name": "Coin Pocket",
-          "specification_value": "Yes"
+          "specification_name": "Colors",
+          "specification_value": "Black, Brown"
         }
       ],
       "agent_recommendation_rank": 2,
       "agent_recommendation_notes": [
+        "Affordable",
         "RFID protection",
-        "Stylish design",
-        "Good discount"
+        "Compact design"
       ]
     },
     {
-      "page_url": "https://www.noon.com/egypt-en/s?q=Montblanc+leather+wallet+with+coin+pocket",
-      "product_title": "Montblanc Leather Wallet with Coin Pocket",
-      "product_image_url": "https://f.nooncdn.com/products/trjpeub37350/a7496277-7e09-47e0-8b8c-7e393e343b0b.jpg",
-      "product_url": "https://www.noon.com/egypt-en/Montblanc-Leather-Wallet-Coin-Pocket-Black-123456.html",
-      "product_current_price": 4999.0,
-      "product_original_price": 5499.0,
-      "product_discount_percentage": 9.08,
+      "page_url": "https://www.noon.com/egypt-en/search?query=Gucci+wallet",
+      "product_title": "Gucci GG Supreme Canvas Wallet",
+      "product_image_url": "https://f.nooncdn.com/products/456789.jpg",
+      "product_url": "https://www.noon.com/egypt-en/gucci-gg-supreme-canvas-wallet-456789/",
+      "product_current_price": 4999.99,
+      "product_original_price": 5999.99,
+      "product_discount_percentage": 16.67,
       "product_specs": [
         {
           "specification_name": "Material",
-          "specification_value": "Genuine Leather"
+          "specification_value": "GG Supreme Canvas"
         },
         {
-          "specification_name": "Coin Pocket",
-          "specification_value": "Yes"
+          "specification_name": "Compartments",
+          "specification_value": "Multiple"
         },
         {
-          "specification_name": "Card Slots",
-          "specification_value": "8"
+          "specification_name": "Logo",
+          "specification_value": "Gucci Logo"
         }
       ],
       "agent_recommendation_rank": 3,
       "agent_recommendation_notes": [
-        "Luxurious brand",
-        "High-quality leather",
-        "Limited discount"
+        "Luxury brand",
+        "High-quality material",
+        "Premium design"
       ]
     },
     {
-      "page_url": "https://www.amazon.eg/s?k=Hugo+Boss+bifold+wallet+with+card+slots",
-      "product_title": "Hugo Boss Bifold Wallet with Card Slots",
-      "product_image_url": "https://m.media-amazon.com/images/I/91eTn8mZ9WL._AC_UL320_.jpg",
-      "product_url": "https://www.amazon.eg/Hugo-Boss-Bifold-Wallet-Card-Slots/dp/B09P8R7Q2W",
-      "product_current_price": 1699.0,
-      "product_original_price": 1999.0,
-      "product_discount_percentage": 15.01,
+      "page_url": "https://www.amazon.eg/search?query=minimalist+wallet",
+      "product_title": "Minimalist Front Pocket Wallet",
+      "product_image_url": "https://images-na.ssl-images-amazon.com/images/I/7H8L9JKM.jpg",
+      "product_url": "https://www.amazon.eg/Minimalist-Front-Pocket-Wallet/dp/B07H8L9JKM",
+      "product_current_price": 199.99,
+      "product_original_price": 249.99,
+      "product_discount_percentage": 20.0,
       "product_specs": [
         {
           "specification_name": "Material",
-          "specification_value": "Genuine Leather"
+          "specification_value": "Aluminum + Elastic"
         },
         {
-          "specification_name": "Card Slots",
-          "specification_value": "8"
+          "specification_name": "Capacity",
+          "specification_value": "Up to 10 cards"
         },
         {
-          "specification_name": "Bifold Design",
-          "specification_value": "Yes"
+          "specification_name": "Design",
+          "specification_value": "Ultra-slim"
         }
       ],
       "agent_recommendation_rank": 4,
       "agent_recommendation_notes": [
-        "Elegant design",
-        "Premium leather",
-        "Good discount"
+        "Lightweight",
+        "Affordable",
+        "Minimalist design"
       ]
     },
     {
-      "page_url": "https://www.jumia.com.eg/s?q=Guess+vegan+leather+wallet+with+logo",
-      "product_title": "Guess Vegan Leather Wallet with Logo",
-      "product_image_url": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/87/678901/1.jpg?6789",
-      "product_url": "https://www.jumia.com.eg/Guess-Vegan-Leather-Wallet-Logo-Black-789012.html",
-      "product_current_price": 899.0,
-      "product_original_price": 999.0,
-      "product_discount_percentage": 10.01,
+      "page_url": "https://www.jumia.eg/search?query=Fossil+wallet",
+      "product_title": "Fossil Leather Bifold Wallet",
+      "product_image_url": "https://egypt.jumia.net/images/I/123456.jpg",
+      "product_url": "https://www.jumia.eg/fossil-leather-bifold-wallet-123456/",
+      "product_current_price": 899.99,
+      "product_original_price": 999.99,
+      "product_discount_percentage": 10.0,
       "product_specs": [
         {
           "specification_name": "Material",
-          "specification_value": "Vegan Leather"
+          "specification_value": "Premium Leather"
         },
         {
-          "specification_name": "Card Slots",
-          "specification_value": "6"
+          "specification_name": "Design",
+          "specification_value": "Bifold"
         },
         {
-          "specification_name": "Bill Compartments",
-          "specification_value": "2"
+          "specification_name": "Logo",
+          "specification_value": "Fossil Embossed"
         }
       ],
       "agent_recommendation_rank": 5,
       "agent_recommendation_notes": [
-        "Eco-friendly material",
-        "Chic design",
-        "Moderate discount"
+        "Classic design",
+        "Durable material",
+        "Brand reputation"
       ]
     },
     {
-      "page_url": "https://www.amazon.eg/s?k=Tommy+Hilfiger+men%27s+leather+wallet",
-      "product_title": "Tommy Hilfiger Men's Leather Wallet (Alternative)",
-      "product_image_url": "https://m.media-amazon.com/images/I/71eTn8mZ9WL._AC_UL320_.jpg",
-      "product_url": "https://www.amazon.eg/Tommy-Hilfiger-Mens-Leather-Wallet-Alternative/dp/B08N5R5Z9X",
-      "product_current_price": 1199.0,
-      "product_original_price": 1399.0,
-      "product_discount_percentage": 14.29,
+      "page_url": "https://www.amazon.eg/search?query=Tommy+Hilfiger+leather+wallet",
+      "product_title": "Tommy Hilfiger Women's Leather Wallet",
+      "product_image_url": "https://images-na.ssl-images-amazon.com/images/I/91XY9JY89Z.jpg",
+      "product_url": "https://www.amazon.eg/Tommy-Hilfiger-Womens-Leather-Wallet/dp/B0894JY89A",
+      "product_current_price": 1199.99,
+      "product_original_price": 1399.99,
+      "product_discount_percentage": 14.28,
       "product_specs": [
         {
           "specification_name": "Material",
@@ -160,134 +160,134 @@
         },
         {
           "specification_name": "Card Slots",
-          "specification_value": "4"
+          "specification_value": "6"
         },
         {
-          "specification_name": "Bill Compartments",
-          "specification_value": "1"
+          "specification_name": "Zipper Pocket",
+          "specification_value": "Yes"
         }
       ],
       "agent_recommendation_rank": 6,
       "agent_recommendation_notes": [
-        "Good alternative",
-        "Decent discount",
-        "Fewer card slots"
+        "Stylish design",
+        "Good discount",
+        "Brand reputation"
       ]
     },
     {
-      "page_url": "https://www.jumia.com.eg/s?q=Fossil+RFID-blocking+wallet+for+women",
-      "product_title": "Fossil RFID-Blocking Wallet for Women (Alternative)",
-      "product_image_url": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/89/234568/1.jpg?1234",
-      "product_url": "https://www.jumia.com.eg/Fossil-RFID-Blocking-Wallet-for-Women-Black-234568.html",
-      "product_current_price": 1399.0,
-      "product_original_price": 1699.0,
-      "product_discount_percentage": 17.66,
+      "page_url": "https://www.jumia.eg/search?query=RFID+blocking+wallet",
+      "product_title": "Aluma Wallet RFID Blocking",
+      "product_image_url": "https://egypt.jumia.net/images/I/345678.jpg",
+      "product_url": "https://www.jumia.eg/aluma-wallet-rfid-blocking-345678/",
+      "product_current_price": 349.99,
+      "product_original_price": 449.99,
+      "product_discount_percentage": 22.22,
       "product_specs": [
         {
           "specification_name": "Material",
-          "specification_value": "Genuine Leather"
+          "specification_value": "Aluminum"
         },
         {
-          "specification_name": "RFID Blocking",
+          "specification_name": "RFID Protection",
           "specification_value": "Yes"
         },
         {
-          "specification_name": "Coin Pocket",
-          "specification_value": "No"
+          "specification_name": "Capacity",
+          "specification_value": "Up to 12 cards"
         }
       ],
       "agent_recommendation_rank": 7,
       "agent_recommendation_notes": [
-        "Good alternative",
-        "Higher discount",
-        "No coin pocket"
+        "Durable material",
+        "Good RFID protection",
+        "Affordable"
       ]
     },
     {
-      "page_url": "https://www.noon.com/egypt-en/s?q=Montblanc+leather+wallet+with+coin+pocket",
-      "product_title": "Montblanc Leather Wallet with Coin Pocket (Alternative)",
-      "product_image_url": "https://f.nooncdn.com/products/trjpeub37351/a7496278-7e09-47e0-8b8c-7e393e343b0c.jpg",
-      "product_url": "https://www.noon.com/egypt-en/Montblanc-Leather-Wallet-Coin-Pocket-Brown-123457.html",
-      "product_current_price": 5299.0,
-      "product_original_price": 5799.0,
-      "product_discount_percentage": 8.63,
+      "page_url": "https://www.noon.com/egypt-en/search?query=Gucci+wallet",
+      "product_title": "Gucci Leather Bi-Fold Wallet",
+      "product_image_url": "https://f.nooncdn.com/products/567890.jpg",
+      "product_url": "https://www.noon.com/egypt-en/gucci-leather-bi-fold-wallet-567890/",
+      "product_current_price": 5499.99,
+      "product_original_price": 6499.99,
+      "product_discount_percentage": 15.4,
       "product_specs": [
         {
           "specification_name": "Material",
           "specification_value": "Genuine Leather"
         },
         {
-          "specification_name": "Coin Pocket",
-          "specification_value": "Yes"
+          "specification_name": "Design",
+          "specification_value": "Bi-Fold"
         },
         {
-          "specification_name": "Card Slots",
-          "specification_value": "6"
+          "specification_name": "Logo",
+          "specification_value": "Gucci Logo"
         }
       ],
       "agent_recommendation_rank": 8,
       "agent_recommendation_notes": [
-        "Good alternative",
-        "Limited discount",
-        "Fewer card slots"
+        "Luxury brand",
+        "High-quality material",
+        "Elegant design"
       ]
     },
     {
-      "page_url": "https://www.amazon.eg/s?k=Hugo+Boss+bifold+wallet+with+card+slots",
-      "product_title": "Hugo Boss Bifold Wallet with Card Slots (Alternative)",
-      "product_image_url": "https://m.media-amazon.com/images/I/81eTn8mZ9WL._AC_UL320_.jpg",
-      "product_url": "https://www.amazon.eg/Hugo-Boss-Bifold-Wallet-Card-Slots-Alternative/dp/B09P8R7Q2X",
-      "product_current_price": 1599.0,
-      "product_original_price": 1899.0,
-      "product_discount_percentage": 15.8,
+      "page_url": "https://www.amazon.eg/search?query=minimalist+wallet",
+      "product_title": "Slim Minimalist Wallet",
+      "product_image_url": "https://images-na.ssl-images-amazon.com/images/I/6H8L9JKM.jpg",
+      "product_url": "https://www.amazon.eg/Slim-Minimalist-Wallet/dp/B07H8L9JKL",
+      "product_current_price": 149.99,
+      "product_original_price": 199.99,
+      "product_discount_percentage": 25.0,
+      "product_specs": [
+        {
+          "specification_name": "Material",
+          "specification_value": "Synthetic Leather"
+        },
+        {
+          "specification_name": "Capacity",
+          "specification_value": "Up to 8 cards"
+        },
+        {
+          "specification_name": "Design",
+          "specification_value": "Ultra-slim"
+        }
+      ],
+      "agent_recommendation_rank": 9,
+      "agent_recommendation_notes": [
+        "Very affordable",
+        "Lightweight",
+        "Simple design"
+      ]
+    },
+    {
+      "page_url": "https://www.jumia.eg/search?query=Fossil+wallet",
+      "product_title": "Fossil Ingram Leather Wallet",
+      "product_image_url": "https://egypt.jumia.net/images/I/234567.jpg",
+      "product_url": "https://www.jumia.eg/fossil-ingram-leather-wallet-234567/",
+      "product_current_price": 799.99,
+      "product_original_price": 899.99,
+      "product_discount_percentage": 11.11,
       "product_specs": [
         {
           "specification_name": "Material",
           "specification_value": "Genuine Leather"
         },
         {
-          "specification_name": "Card Slots",
-          "specification_value": "6"
+          "specification_name": "Design",
+          "specification_value": "Trifold"
         },
         {
-          "specification_name": "Bifold Design",
-          "specification_value": "Yes"
-        }
-      ],
-      "agent_recommendation_rank": 9,
-      "agent_recommendation_notes": [
-        "Good alternative",
-        "Decent discount",
-        "Fewer card slots"
-      ]
-    },
-    {
-      "page_url": "https://www.jumia.com.eg/s?q=Guess+vegan+leather+wallet+with+logo",
-      "product_title": "Guess Vegan Leather Wallet with Logo (Alternative)",
-      "product_image_url": "https://eg.jumia.is/unsafe/fit-in/300x300/filters:fill(white)/product/90/789013/1.jpg?7890",
-      "product_url": "https://www.jumia.com.eg/Guess-Vegan-Leather-Wallet-Logo-Brown-789013.html",
-      "product_current_price": 799.0,
-      "product_original_price": 899.0,
-      "product_discount_percentage": 11.12,
-      "product_specs": [
-        {
-          "specification_name": "Material",
-          "specification_value": "Vegan Leather"
-        },
-        {
-          "specification_name": "Card Slots",
-          "specification_value": "4"
-        },
-        {
-          "specification_name": "Bill Compartments",
-          "specification_value": "1"
+          "specification_name": "Logo",
+          "specification_value": "Fossil Embossed"
         }
       ],
       "agent_recommendation_rank": 10,
       "agent_recommendation_notes": [
-        "Good alternative",
-        "Moderate discount",
-        "Fewer card slots"
+        "Classic design",
+        "Good discount",
+        "Brand reputation"
       ]
     }
   ]

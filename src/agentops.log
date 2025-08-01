@@ -1,4 +1,2 @@
-2025-08-01 07:00:23,342 - INFO - You're on the agentops free plan 🤔
-2025-08-01 07:00:23,384 - INFO - Session Replay for default trace: https://app.agentops.ai/sessions?trace_id=0e5055d987d8c505cf71dff6d8bb5292
-2025-08-01 07:02:46,849 - WARNING - end_session() is deprecated and will be removed in v4 in the future. Use agentops.end_trace() instead.
-2025-08-01 07:02:47,485 - INFO - Session Replay for default.session trace: https://app.agentops.ai/sessions?trace_id=0e5055d987d8c505cf71dff6d8bb5292
+2025-08-01 17:50:58,563 - INFO - You're on the agentops free plan 🤔
+2025-08-01 17:50:58,604 - INFO - Session Replay for default trace: https://app.agentops.ai/sessions?trace_id=a10861322196cdd7646f6c5bf9ca2b24
