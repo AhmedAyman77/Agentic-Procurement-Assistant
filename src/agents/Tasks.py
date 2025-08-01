@@ -17,7 +17,7 @@ class Tasks():
 
     def __init__(self, request: Request) -> None:
         self.dirname = os.path.dirname(__file__)
-        self.AGENT_OUTPUT_FILE_PATH = os.path.join(self.dirname, 'agent_output')
+        self.AGENT_OUTPUT_FILE_PATH = "./agent_output" # os.path.join(self.dirname, 'agent_output')
         
         self.tasks_config_path = os.path.join(self.dirname, AgentsEnum.TASKS_CONFIG.value)
         with open(self.tasks_config_path, 'r') as file:

@@ -24,4 +24,4 @@ class AgentsEnum(Enum):
 
     MEDIA_TYPE="text/html"
 
-    OUTPUT_FILE_PATH = "agents/agent_output/procurement_report.html"
+    OUTPUT_FILE_PATH = "agent_output/procurement_report.html"

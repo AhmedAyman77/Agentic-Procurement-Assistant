@@ -25,7 +25,6 @@ async def startup_event():
         skip_auto_end_session=True,
         default_tags=['crewai']
     )
-    print(agentops.get_client().config.exporter_endpoint)
 
     app.basic_llm = LLM(model=env_settings.LLM, temperature=0)
     app.search_client = TavilyClient(api_key=env_settings.TAVILY_API_KEY)

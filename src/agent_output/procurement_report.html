@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Procurement Report</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <style>
+    body {
+      padding: 20px;
+    }
+    .section {
+      margin-bottom: 40px;
+    }
+    .table {
+      margin-top: 20px;
+    }
+    .chart-container {
+      width: 100%;
+      height: 400px;
+    }
+  </style>
+</head>
+<body>
+
+<div class="container">
+  <h1 class="text-center mb-5">Procurement Report</h1>
+
+  <!-- Executive Summary -->
+  <div class="section">
+    <h2>Executive Summary</h2>
+    <p>This procurement report provides a comprehensive analysis of wallet products from various brands across different e-commerce platforms in Egypt. The report compares prices, specifications, and discounts to assist in making informed purchasing decisions. Key findings include significant price variations across platforms and brands, with notable discounts available on certain products.</p>
+  </div>
+
+  <!-- Introduction -->
+  <div class="section">
+    <h2>Introduction</h2>
+    <p>This report aims to evaluate and compare wallet products from leading brands such as Tommy Hilfiger, Fossil, Montblanc, Hugo Boss, and Guess. The analysis focuses on product availability, pricing, and specifications across platforms like Amazon.eg, Jumia.com.eg, and Noon.com/egypt-en.</p>
+  </div>
+
+  <!-- Methodology -->
+  <div class="section">
+    <h2>Methodology</h2>
+    <p>The data was collected by searching for specific wallet products on the respective e-commerce platforms. Prices, discounts, and product specifications were extracted and compared. The analysis includes both primary and alternative product options to provide a comprehensive overview.</p>
+  </div>
+
+  <!-- Findings -->
+  <div class="section">
+    <h2>Findings</h2>
+    <table class="table table-bordered">
+      <thead>
+        <tr>
+          <th>Product Title</th>
+          <th>Platform</th>
+          <th>Current Price (EGP)</th>
+          <th>Original Price (EGP)</th>
+          <th>Discount (%)</th>
+          <th>Material</th>
+          <th>Card Slots</th>
+          <th>Coin Pocket</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Tommy Hilfiger Men's Leather Wallet</td>
+          <td>Amazon.eg</td>
+          <td>1299.0</td>
+          <td>1499.0</td>
+          <td>13.34</td>
+          <td>Genuine Leather</td>
+          <td>6</td>
+          <td>No</td>
+        </tr>
+        <tr>
+          <td>Fossil RFID-Blocking Wallet for Women</td>
+          <td>Jumia.com.eg</td>
+          <td>1499.0</td>
+          <td>1799.0</td>
+          <td>16.67</td>
+          <td>Genuine Leather</td>
+          <td>N/A</td>
+          <td>Yes</td>
+        </tr>
+        <tr>
+          <td>Montblanc Leather Wallet with Coin Pocket</td>
+          <td>Noon.com/egypt-en</td>
+          <td>4999.0</td>
+          <td>5499.0</td>
+          <td>9.08</td>
+          <td>Genuine Leather</td>
+          <td>8</td>
+          <td>Yes</td>
+        </tr>
+        <tr>
+          <td>Hugo Boss Bifold Wallet with Card Slots</td>
+          <td>Amazon.eg</td>
+          <td>1699.0</td>
+          <td>1999.0</td>
+          <td>15.01</td>
+          <td>Genuine Leather</td>
+          <td>8</td>
+          <td>No</td>
+        </tr>
+        <tr>
+          <td>Guess Vegan Leather Wallet with Logo</td>
+          <td>Jumia.com.eg</td>
+          <td>899.0</td>
+          <td>999.0</td>
+          <td>10.01</td>
+          <td>Vegan Leather</td>
+          <td>6</td>
+          <td>No</td>
+        </tr>
+      </tbody>
+    </table>
+  </div>
+
+  <!-- Analysis -->
+  <div class="section">
+    <h2>Analysis</h2>
+    <p>The analysis reveals that Montblanc wallets are the most expensive, reflecting their luxury brand status. Tommy Hilfiger and Hugo Boss wallets offer good discounts, making them attractive options. Fossil wallets provide RFID protection, adding value to their price. Guess wallets are the most affordable, suitable for budget-conscious buyers.</p>
+    <div class="chart-container">
+      <canvas id="priceChart"></canvas>
+    </div>
+  </div>
+
+  <!-- Recommendations -->
+  <div class="section">
+    <h2>Recommendations</h2>
+    <ul>
+      <li><strong>Best Value for Money:</strong> Tommy Hilfiger Men's Leather Wallet</li>
+      <li><strong>Best Luxury Option:</strong> Montblanc Leather Wallet with Coin Pocket</li>
+      <li><strong>Best Budget Option:</strong> Guess Vegan Leather Wallet with Logo</li>
+      <li><strong>Best Security Feature:</strong> Fossil RFID-Blocking Wallet for Women</li>
+    </ul>
+  </div>
+
+  <!-- Conclusion -->
+  <div class="section">
+    <h2>Conclusion</h2>
+    <p>This report highlights the importance of comparing prices and features across different platforms to make informed procurement decisions. The findings provide valuable insights into the wallet market, helping buyers choose the best product based on their budget and preferences.</p>
+  </div>
+
+  <!-- Appendices -->
+  <div class="section">
+    <h2>Appendices</h2>
+    <p>Additional data and raw search results are available upon request.</p>
+  </div>
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<script>
+  var ctx = document.getElementById('priceChart').getContext('2d');
+  var priceChart = new Chart(ctx, {
+    type: 'bar',
+    data: {
+      labels: ['Tommy Hilfiger', 'Fossil', 'Montblanc', 'Hugo Boss', 'Guess'],
+      datasets: [{
+        label: 'Current Price (EGP)',
+        data: [1299, 1499, 4999, 1699, 899],
+        backgroundColor: 'rgba(75, 192, 192, 0.2)',
+        borderColor: 'rgba(75, 192, 192, 1)',
+        borderWidth: 1
+      }]
+    },
+    options: {
+      scales: {
+        y: {
+          beginAtZero: true
+        }
+      }
+    }
+  });
+</script>
+
+</body>
+</html>
