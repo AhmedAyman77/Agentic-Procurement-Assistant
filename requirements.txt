@@ -1,0 +1,9 @@
+crewai[tools,agentops]==0.114.0
+crewai[tools]
+tavily-python
+scrapegraph-py
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+python-dotenv
