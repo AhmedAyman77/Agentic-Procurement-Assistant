@@ -1,7 +1,7 @@
 search_queries_recommendation_task:
     
     description: |
-        Rankyx is looking to buy {product_name} at the best prices (value for a price strategy).
+        Ahmedtech is looking to buy {product_name} at the best prices (value for a price strategy).
         The campany target any of these websites to buy from: {websites_list}.
         The company wants to reach all available proucts on the internet to be compared later in another stage.
         The stores must sell the product in {country_name}.

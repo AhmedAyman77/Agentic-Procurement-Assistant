@@ -1,353 +1,283 @@
 {
   "products": [
     {
-      "page_url": "https://www.amazon.eg/s?k=ASUS+ROG+Strix+RTX+3060+gaming+laptop",
-      "product_title": "ASUS ROG Strix G15 Gaming Laptop, RTX 3060, 15.6\" FHD 300Hz, Ryzen 7 5800H, 16GB DDR4, 1TB SSD",
-      "product_image_url": "https://m.media-amazon.com/images/I/81hF2zJn8dL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.eg/dp/B09T2Z7W8C",
-      "product_current_price": 1899.99,
-      "product_original_price": 2099.99,
-      "product_discount_percentage": 9.5,
+      "page_url": "https://www.amazon.eg/s?k=Tommy+Hilfiger+leather+wallet",
+      "product_title": "Tommy Hilfiger Men's Leather Wallet",
+      "product_image_url": "https://m.media-amazon.com/images/I/81eWq2gY9dL._AC_UL320_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B08N5R8Q3W",
+      "product_current_price": 1299.0,
+      "product_original_price": 1499.0,
+      "product_discount_percentage": 13.34,
       "product_specs": [
         {
-          "specification_name": "Processor",
-          "specification_value": "Ryzen 7 5800H"
+          "specification_name": "Material",
+          "specification_value": "Genuine Leather"
         },
         {
-          "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3060"
+          "specification_name": "Card Slots",
+          "specification_value": "8"
         },
         {
-          "specification_name": "Display",
-          "specification_value": "15.6\" FHD 300Hz"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "16GB DDR4"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "1TB SSD"
+          "specification_name": "Coin Pocket",
+          "specification_value": "Yes"
         }
       ],
       "agent_recommendation_rank": 1,
       "agent_recommendation_notes": [
-        "Best overall performance and value for gamers."
+        "High-quality material",
+        "Ample storage"
       ]
     },
     {
-      "page_url": "https://www.amazon.eg/s?k=Acer+Predator+Helios+144Hz+gaming+laptop",
-      "product_title": "Acer Predator Helios 300 Gaming Laptop, 15.6\" FHD 144Hz, Intel i7-11800H, RTX 3060, 16GB DDR4, 512GB SSD",
-      "product_image_url": "https://m.media-amazon.com/images/I/81+l7zJn8dL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.eg/dp/B08N5WNY6H",
-      "product_current_price": 1699.99,
-      "product_original_price": 1899.99,
-      "product_discount_percentage": 10.5,
+      "page_url": "https://www.amazon.eg/s?k=Hugo+Boss+designer+wallet",
+      "product_title": "Hugo Boss Designer Leather Wallet",
+      "product_image_url": "https://m.media-amazon.com/images/I/91eWq2gY9dL._AC_UL320_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B09P7Q2R1T",
+      "product_current_price": 1899.0,
+      "product_original_price": 2199.0,
+      "product_discount_percentage": 13.64,
       "product_specs": [
         {
-          "specification_name": "Processor",
-          "specification_value": "Intel i7-11800H"
+          "specification_name": "Material",
+          "specification_value": "Premium Leather"
         },
         {
-          "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3060"
+          "specification_name": "Card Slots",
+          "specification_value": "6"
         },
         {
-          "specification_name": "Display",
-          "specification_value": "15.6\" FHD 144Hz"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "16GB DDR4"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "512GB SSD"
+          "specification_name": "Coin Pocket",
+          "specification_value": "No"
         }
       ],
       "agent_recommendation_rank": 2,
       "agent_recommendation_notes": [
-        "Great balance of performance and price."
+        "Elegant design",
+        "Premium finish"
       ]
     },
     {
-      "page_url": "https://www.amazon.eg/s?k=MSI+Stealth+15M+i7+11th+Gen+gaming+laptop",
-      "product_title": "MSI Stealth 15M Gaming Laptop, 15.6\" FHD 144Hz, Intel i7-11375H, RTX 3060, 16GB DDR4, 512GB NVMe SSD",
-      "product_image_url": "https://m.media-amazon.com/images/I/81hF2zJn8dL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.eg/dp/B092T6ZJ8M",
-      "product_current_price": 1799.99,
-      "product_original_price": 1999.99,
-      "product_discount_percentage": 10.0,
+      "page_url": "https://www.jumia.com.eg/s?q=RFID+blocking+slim+wallet",
+      "product_title": "RFID Blocking Slim Wallet",
+      "product_image_url": "https://egypt-api.jumia.com/images/products/23456.jpg",
+      "product_url": "https://www.jumia.com.eg/generic-rfid-blocking-slim-wallet-23456.html",
+      "product_current_price": 399.0,
+      "product_original_price": 499.0,
+      "product_discount_percentage": 20.04,
       "product_specs": [
         {
-          "specification_name": "Processor",
-          "specification_value": "Intel i7-11375H"
+          "specification_name": "Material",
+          "specification_value": "Synthetic Leather"
         },
         {
-          "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3060"
+          "specification_name": "RFID Protection",
+          "specification_value": "Yes"
         },
         {
-          "specification_name": "Display",
-          "specification_value": "15.6\" FHD 144Hz"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "16GB DDR4"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "512GB NVMe SSD"
+          "specification_name": "Card Slots",
+          "specification_value": "10"
         }
       ],
       "agent_recommendation_rank": 3,
       "agent_recommendation_notes": [
-        "Excellent portability without compromising performance."
+        "Secure card storage",
+        "Slim design"
       ]
     },
     {
-      "page_url": "https://www.amazon.eg/s?k=ASUS+ROG+Strix+RTX+3060+gaming+laptop",
-      "product_title": "ASUS ROG Strix G15 (Alternate Config)",
-      "product_image_url": "https://m.media-amazon.com/images/I/81+l7zJn8dL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.eg/dp/B09T2Z7W8D",
-      "product_current_price": 1749.99,
-      "product_original_price": 1949.99,
-      "product_discount_percentage": 10.3,
+      "page_url": "https://www.noon.com/egypt-en/s?q=genuine+leather+bi-fold+wallet",
+      "product_title": "Genuine Leather Bi-Fold Wallet",
+      "product_image_url": "https://f.nooncdn.com/products/12345.jpg",
+      "product_url": "https://www.noon.com/egypt-en/p/genuine-leather-bi-fold-wallet-12345",
+      "product_current_price": 699.0,
+      "product_original_price": 799.0,
+      "product_discount_percentage": 12.52,
       "product_specs": [
         {
-          "specification_name": "Processor",
-          "specification_value": "Ryzen 7 5800H"
+          "specification_name": "Material",
+          "specification_value": "Genuine Leather"
         },
         {
-          "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3060"
+          "specification_name": "Card Slots",
+          "specification_value": "12"
         },
         {
-          "specification_name": "Display",
-          "specification_value": "15.6\" FHD 165Hz"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "16GB DDR4"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "512GB SSD"
+          "specification_name": "Coin Pocket",
+          "specification_value": "Yes"
         }
       ],
       "agent_recommendation_rank": 4,
       "agent_recommendation_notes": [
-        "Slightly lower refresh rate but still a great option."
+        "High-quality material",
+        "Ample storage"
       ]
     },
     {
-      "page_url": "https://www.amazon.eg/s?k=Acer+Predator+Helios+144Hz+gaming+laptop",
-      "product_title": "Acer Predator Helios 300 (Alternate Config)",
-      "product_image_url": "https://m.media-amazon.com/images/I/81hF2zJn8dL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.eg/dp/B08N5WNY6G",
-      "product_current_price": 1599.99,
-      "product_original_price": 1799.99,
-      "product_discount_percentage": 11.1,
+      "page_url": "https://www.noon.com/egypt-en/s?q=minimalist+carbon+fiber+wallet",
+      "product_title": "Minimalist Carbon Fiber Wallet",
+      "product_image_url": "https://f.nooncdn.com/products/67890.jpg",
+      "product_url": "https://www.noon.com/egypt-en/p/minimalist-carbon-fiber-wallet-67890",
+      "product_current_price": 499.0,
+      "product_original_price": 599.0,
+      "product_discount_percentage": 16.69,
       "product_specs": [
         {
-          "specification_name": "Processor",
-          "specification_value": "Intel i7-10750H"
+          "specification_name": "Material",
+          "specification_value": "Carbon Fiber"
         },
         {
-          "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3060"
+          "specification_name": "Card Slots",
+          "specification_value": "6"
         },
         {
-          "specification_name": "Display",
-          "specification_value": "15.6\" FHD 144Hz"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "16GB DDR4"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "512GB SSD"
+          "specification_name": "Coin Pocket",
+          "specification_value": "No"
         }
       ],
       "agent_recommendation_rank": 5,
       "agent_recommendation_notes": [
-        "Older processor but still a solid choice for gaming."
+        "Ultra-slim design",
+        "Durable material"
       ]
     },
     {
-      "page_url": "https://www.amazon.eg/s?k=MSI+Stealth+15M+i7+11th+Gen+gaming+laptop",
-      "product_title": "MSI Stealth 15M (Alternate Config)",
-      "product_image_url": "https://m.media-amazon.com/images/I/81+l7zJn8dL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.eg/dp/B092T6ZJ8N",
-      "product_current_price": 1649.99,
-      "product_original_price": 1849.99,
-      "product_discount_percentage": 10.8,
+      "page_url": "https://www.amazon.eg/s?k=Tommy+Hilfiger+leather+wallet",
+      "product_title": "Tommy Hilfiger Women's Leather Wallet",
+      "product_image_url": "https://m.media-amazon.com/images/I/81eWq2gY9dL._AC_UL320_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B08N5R8Q4X",
+      "product_current_price": 1199.0,
+      "product_original_price": 1399.0,
+      "product_discount_percentage": 14.29,
       "product_specs": [
         {
-          "specification_name": "Processor",
-          "specification_value": "Intel i7-11375H"
+          "specification_name": "Material",
+          "specification_value": "Genuine Leather"
         },
         {
-          "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3060"
+          "specification_name": "Card Slots",
+          "specification_value": "6"
         },
         {
-          "specification_name": "Display",
-          "specification_value": "15.6\" FHD 120Hz"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "16GB DDR4"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "512GB NVMe SSD"
+          "specification_name": "Coin Pocket",
+          "specification_value": "Yes"
         }
       ],
       "agent_recommendation_rank": 6,
       "agent_recommendation_notes": [
-        "Lower refresh rate but still a good portable option."
+        "High-quality material",
+        "Compact design"
       ]
     },
     {
-      "page_url": "https://www.amazon.eg/s?k=ASUS+ROG+Strix+RTX+3060+gaming+laptop",
-      "product_title": "ASUS ROG Strix G15 (Budget Config)",
-      "product_image_url": "https://m.media-amazon.com/images/I/81hF2zJn8dL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.eg/dp/B09T2Z7W8F",
-      "product_current_price": 1549.99,
-      "product_original_price": 1749.99,
-      "product_discount_percentage": 11.4,
+      "page_url": "https://www.jumia.com.eg/s?q=RFID+blocking+slim+wallet",
+      "product_title": "Ultra-Slim RFID Blocking Wallet",
+      "product_image_url": "https://egypt-api.jumia.com/images/products/23457.jpg",
+      "product_url": "https://www.jumia.com.eg/generic-ultra-slim-rfid-blocking-wallet-23457.html",
+      "product_current_price": 349.0,
+      "product_original_price": 449.0,
+      "product_discount_percentage": 22.27,
       "product_specs": [
         {
-          "specification_name": "Processor",
-          "specification_value": "Ryzen 5 5600H"
+          "specification_name": "Material",
+          "specification_value": "Synthetic Leather"
         },
         {
-          "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3060"
+          "specification_name": "RFID Protection",
+          "specification_value": "Yes"
         },
         {
-          "specification_name": "Display",
-          "specification_value": "15.6\" FHD 144Hz"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "8GB DDR4"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "512GB SSD"
+          "specification_name": "Card Slots",
+          "specification_value": "8"
         }
       ],
       "agent_recommendation_rank": 7,
       "agent_recommendation_notes": [
-        "Budget-friendly option with decent specs."
+        "Secure card storage",
+        "Ultra-slim design"
       ]
     },
     {
-      "page_url": "https://www.amazon.eg/s?k=Acer+Predator+Helios+144Hz+gaming+laptop",
-      "product_title": "Acer Predator Helios 300 (Budget Config)",
-      "product_image_url": "https://m.media-amazon.com/images/I/81+l7zJn8dL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.eg/dp/B08N5WNY6F",
-      "product_current_price": 1499.99,
-      "product_original_price": 1699.99,
-      "product_discount_percentage": 11.8,
+      "page_url": "https://www.noon.com/egypt-en/s?q=genuine+leather+bi-fold+wallet",
+      "product_title": "Premium Leather Bi-Fold Wallet",
+      "product_image_url": "https://f.nooncdn.com/products/12346.jpg",
+      "product_url": "https://www.noon.com/egypt-en/p/premium-leather-bi-fold-wallet-12346",
+      "product_current_price": 799.0,
+      "product_original_price": 899.0,
+      "product_discount_percentage": 11.12,
       "product_specs": [
         {
-          "specification_name": "Processor",
-          "specification_value": "Intel i5-10300H"
+          "specification_name": "Material",
+          "specification_value": "Premium Leather"
         },
         {
-          "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3060"
+          "specification_name": "Card Slots",
+          "specification_value": "10"
         },
         {
-          "specification_name": "Display",
-          "specification_value": "15.6\" FHD 144Hz"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "8GB DDR4"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "512GB SSD"
+          "specification_name": "Coin Pocket",
+          "specification_value": "Yes"
         }
       ],
       "agent_recommendation_rank": 8,
       "agent_recommendation_notes": [
-        "Budget option with good gaming performance."
+        "High-quality material",
+        "Ample storage"
       ]
     },
     {
-      "page_url": "https://www.amazon.eg/s?k=MSI+Stealth+15M+i7+11th+Gen+gaming+laptop",
-      "product_title": "MSI Stealth 15M (Budget Config)",
-      "product_image_url": "https://m.media-amazon.com/images/I/81hF2zJn8dL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.eg/dp/B092T6ZJ8L",
-      "product_current_price": 1599.99,
-      "product_original_price": 1799.99,
-      "product_discount_percentage": 11.1,
+      "page_url": "https://www.amazon.eg/s?k=Hugo+Boss+designer+wallet",
+      "product_title": "Hugo Boss Classic Leather Wallet",
+      "product_image_url": "https://m.media-amazon.com/images/I/91eWq2gY9dL._AC_UL320_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B09P7Q2R2Y",
+      "product_current_price": 1799.0,
+      "product_original_price": 1999.0,
+      "product_discount_percentage": 10.01,
       "product_specs": [
         {
-          "specification_name": "Processor",
-          "specification_value": "Intel i5-11300H"
+          "specification_name": "Material",
+          "specification_value": "Classic Leather"
         },
         {
-          "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3060"
+          "specification_name": "Card Slots",
+          "specification_value": "8"
         },
         {
-          "specification_name": "Display",
-          "specification_value": "15.6\" FHD 120Hz"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "8GB DDR4"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "512GB NVMe SSD"
+          "specification_name": "Coin Pocket",
+          "specification_value": "No"
         }
       ],
       "agent_recommendation_rank": 9,
       "agent_recommendation_notes": [
-        "Budget-friendly with good portability."
+        "Classic design",
+        "Premium finish"
       ]
     },
     {
-      "page_url": "https://www.amazon.eg/s?k=ASUS+ROG+Strix+RTX+3060+gaming+laptop",
-      "product_title": "ASUS ROG Strix G15 (Refurbished)",
-      "product_image_url": "https://m.media-amazon.com/images/I/81+l7zJn8dL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.eg/dp/B09T2Z7W8E",
-      "product_current_price": 1449.99,
-      "product_original_price": 1649.99,
-      "product_discount_percentage": 12.1,
+      "page_url": "https://www.noon.com/egypt-en/s?q=minimalist+carbon+fiber+wallet",
+      "product_title": "Slim Carbon Fiber Wallet",
+      "product_image_url": "https://f.nooncdn.com/products/67891.jpg",
+      "product_url": "https://www.noon.com/egypt-en/p/slim-carbon-fiber-wallet-67891",
+      "product_current_price": 599.0,
+      "product_original_price": 699.0,
+      "product_discount_percentage": 14.31,
       "product_specs": [
         {
-          "specification_name": "Processor",
-          "specification_value": "Ryzen 7 5800H"
+          "specification_name": "Material",
+          "specification_value": "Carbon Fiber"
         },
         {
-          "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3060"
+          "specification_name": "Card Slots",
+          "specification_value": "8"
         },
         {
-          "specification_name": "Display",
-          "specification_value": "15.6\" FHD 144Hz"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "16GB DDR4"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "512GB SSD"
+          "specification_name": "Coin Pocket",
+          "specification_value": "No"
         }
       ],
       "agent_recommendation_rank": 10,
       "agent_recommendation_notes": [
-        "Refurbished option with great value for money."
+        "Slim design",
+        "Durable material"
       ]
     }
   ]

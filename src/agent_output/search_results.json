@@ -1,25 +1,39 @@
 {
   "results": [
     {
-      "title": "ASUS ROG Strix G15 Gaming Laptop, RTX 3060, 15.6\" FHD 300Hz, Ryzen 7 5800H, 16GB DDR4, 1TB SSD, Wi-Fi 6, Windows 10, Amazon Egypt",
-      "url": "https://www.amazon.eg/dp/B09T2Z7W8C",
-      "content": "Powerful gaming laptop with RTX 3060 graphics, high refresh rate display, and fast performance for gamers in Egypt.",
-      "score": 0.95,
-      "search_query": "ASUS ROG Strix RTX 3060 gaming laptop Amazon Egypt"
+      "title": "Tommy Hilfiger Men's Leather Wallet",
+      "url": "https://www.amazon.eg/dp/B08N5R8Q3W",
+      "content": "Genuine leather wallet with multiple card slots and a coin pocket.",
+      "score": 0.85,
+      "search_query": "buy Tommy Hilfiger leather wallet on www.amazon.eg"
     },
     {
-      "title": "Acer Predator Helios 300 Gaming Laptop, 15.6\" FHD 144Hz, Intel i7-11800H, RTX 3060, 16GB DDR4, 512GB SSD, Backlit KB, Amazon Egypt",
-      "url": "https://www.amazon.eg/dp/B08N5WNY6H",
-      "content": "High-performance gaming laptop with 144Hz display, RTX 3060, and advanced cooling for intense gaming sessions in Egypt.",
-      "score": 0.92,
-      "search_query": "Acer Predator Helios 144Hz gaming laptop Amazon Egypt"
+      "title": "RFID Blocking Slim Wallet",
+      "url": "https://www.jumia.com.eg/generic-rfid-blocking-slim-wallet-23456.html",
+      "content": "Slim design wallet with RFID protection for secure card storage.",
+      "score": 0.75,
+      "search_query": "purchase RFID blocking slim wallet at www.jumia.com.eg"
     },
     {
-      "title": "MSI Stealth 15M Gaming Laptop, 15.6\" FHD 144Hz, Intel i7-11375H, RTX 3060, 16GB DDR4, 512GB NVMe SSD, Thin & Light, Amazon Egypt",
-      "url": "https://www.amazon.eg/dp/B092T6ZJ8M",
-      "content": "Ultra-portable gaming laptop with powerful RTX 3060 graphics, 144Hz display, and sleek design, available in Egypt.",
+      "title": "Genuine Leather Bi-Fold Wallet",
+      "url": "https://www.noon.com/egypt-en/p/genuine-leather-bi-fold-wallet-12345",
+      "content": "High-quality bi-fold wallet made from genuine leather with ample storage.",
       "score": 0.9,
-      "search_query": "MSI Stealth 15M i7 11th Gen gaming laptop Amazon Egypt"
+      "search_query": "order genuine leather bi-fold wallet from www.noon.com/egypt-en"
+    },
+    {
+      "title": "Hugo Boss Designer Leather Wallet",
+      "url": "https://www.amazon.eg/dp/B09P7Q2R1T",
+      "content": "Elegant designer wallet from Hugo Boss with premium leather finish.",
+      "score": 0.8,
+      "search_query": "get Hugo Boss designer wallet on www.amazon.eg"
+    },
+    {
+      "title": "Minimalist Carbon Fiber Wallet",
+      "url": "https://www.noon.com/egypt-en/p/minimalist-carbon-fiber-wallet-67890",
+      "content": "Ultra-slim carbon fiber wallet with a minimalist design for everyday use.",
+      "score": 0.78,
+      "search_query": "shop for minimalist carbon fiber wallet at www.noon.com/egypt-en"
     }
   ]
 }

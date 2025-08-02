@@ -1,7 +1,7 @@
 from enum import Enum
 
 class AgentsEnum(Enum):
-    ABOUT_COMPANY = "Rankyx is a company that provides AI solutions to help websites refine their search and recommendation systems."
+    ABOUT_COMPANY = "Ahmedtech is a company that provides AI solutions to help websites refine their search and recommendation systems."
     
     AGENTS_CONFIG = "config/agents.yaml"
     TASKS_CONFIG = "config/tasks.yaml"

@@ -3,131 +3,139 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Rankyx Procurement Report</title>
+    <title>Procurement Report</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet">
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
     <style>
         body {
-            font-family: Arial, sans-serif;
             padding: 20px;
         }
         .section {
             margin-bottom: 40px;
         }
+        .table {
+            margin-top: 20px;
+        }
         .chart-container {
-            width: 80%;
-            margin: 0 auto;
+            height: 400px;
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
 
 <div class="container">
-    <h1 class="text-center mb-5">Rankyx Procurement Report</h1>
-
     <!-- Executive Summary -->
     <div class="section">
         <h2>Executive Summary</h2>
-        <p>This procurement report provides a comprehensive analysis of gaming laptops available on Amazon Egypt, focusing on models with NVIDIA GeForce RTX 3060 graphics. The report compares prices, specifications, and value propositions across different brands, including ASUS ROG Strix, Acer Predator Helios, and MSI Stealth 15M. Key findings highlight the best options for performance, portability, and budget considerations.</p>
+        <p>This procurement report provides a comprehensive analysis of wallet products from various online platforms, including Amazon.eg, Jumia.com.eg, and Noon.com/egypt-en. The report compares prices, specifications, and recommendations for wallets, highlighting key findings and trends to assist in informed procurement decisions.</p>
     </div>
 
     <!-- Introduction -->
     <div class="section">
         <h2>Introduction</h2>
-        <p>The purpose of this report is to assist Rankyx in making informed procurement decisions for gaming laptops. The scope includes comparing prices, specifications, and recommendations for laptops available on Amazon Egypt, ensuring the best value for money.</p>
+        <p>The purpose of this report is to evaluate and compare wallet products across different e-commerce platforms. The scope includes analyzing product prices, specifications, and discounts to identify the best procurement options for high-quality wallets.</p>
     </div>
 
     <!-- Methodology -->
     <div class="section">
         <h2>Methodology</h2>
-        <p>The data was gathered by searching for specific gaming laptop models on Amazon Egypt. Prices, specifications, and discounts were extracted and compared. The analysis includes both new and refurbished options to provide a comprehensive overview.</p>
+        <p>The data was collected by searching for specific wallet products on Amazon.eg, Jumia.com.eg, and Noon.com/egypt-en. The search results were analyzed based on product title, price, discount, specifications, and recommendations. The findings are presented in tabular and graphical formats for clarity.</p>
     </div>
 
     <!-- Findings -->
     <div class="section">
         <h2>Findings</h2>
-        <table class="table table-striped">
+        <table class="table table-bordered">
             <thead>
                 <tr>
                     <th>Product Title</th>
-                    <th>Current Price (USD)</th>
-                    <th>Original Price (USD)</th>
+                    <th>Website</th>
+                    <th>Current Price (EGP)</th>
+                    <th>Original Price (EGP)</th>
                     <th>Discount (%)</th>
-                    <th>Processor</th>
-                    <th>Graphics</th>
-                    <th>Display</th>
-                    <th>RAM</th>
-                    <th>Storage</th>
-                    <th>Recommendation Rank</th>
+                    <th>Material</th>
+                    <th>Card Slots</th>
+                    <th>Coin Pocket</th>
                 </tr>
             </thead>
             <tbody>
                 <tr>
-                    <td>ASUS ROG Strix G15 Gaming Laptop</td>
-                    <td>1899.99</td>
-                    <td>2099.99</td>
-                    <td>9.5</td>
-                    <td>Ryzen 7 5800H</td>
-                    <td>NVIDIA GeForce RTX 3060</td>
-                    <td>15.6" FHD 300Hz</td>
-                    <td>16GB DDR4</td>
-                    <td>1TB SSD</td>
-                    <td>1</td>
+                    <td>Tommy Hilfiger Men's Leather Wallet</td>
+                    <td>Amazon.eg</td>
+                    <td>1299.0</td>
+                    <td>1499.0</td>
+                    <td>13.34</td>
+                    <td>Genuine Leather</td>
+                    <td>8</td>
+                    <td>Yes</td>
                 </tr>
                 <tr>
-                    <td>Acer Predator Helios 300 Gaming Laptop</td>
-                    <td>1699.99</td>
-                    <td>1899.99</td>
-                    <td>10.5</td>
-                    <td>Intel i7-11800H</td>
-                    <td>NVIDIA GeForce RTX 3060</td>
-                    <td>15.6" FHD 144Hz</td>
-                    <td>16GB DDR4</td>
-                    <td>512GB SSD</td>
-                    <td>2</td>
+                    <td>Hugo Boss Designer Leather Wallet</td>
+                    <td>Amazon.eg</td>
+                    <td>1899.0</td>
+                    <td>2199.0</td>
+                    <td>13.64</td>
+                    <td>Premium Leather</td>
+                    <td>6</td>
+                    <td>No</td>
                 </tr>
                 <tr>
-                    <td>MSI Stealth 15M Gaming Laptop</td>
-                    <td>1799.99</td>
-                    <td>1999.99</td>
-                    <td>10.0</td>
-                    <td>Intel i7-11375H</td>
-                    <td>NVIDIA GeForce RTX 3060</td>
-                    <td>15.6" FHD 144Hz</td>
-                    <td>16GB DDR4</td>
-                    <td>512GB NVMe SSD</td>
-                    <td>3</td>
+                    <td>RFID Blocking Slim Wallet</td>
+                    <td>Jumia.com.eg</td>
+                    <td>399.0</td>
+                    <td>499.0</td>
+                    <td>20.04</td>
+                    <td>Synthetic Leather</td>
+                    <td>10</td>
+                    <td>No</td>
                 </tr>
-                <!-- Add more rows as needed -->
+                <tr>
+                    <td>Genuine Leather Bi-Fold Wallet</td>
+                    <td>Noon.com/egypt-en</td>
+                    <td>699.0</td>
+                    <td>799.0</td>
+                    <td>12.52</td>
+                    <td>Genuine Leather</td>
+                    <td>12</td>
+                    <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Minimalist Carbon Fiber Wallet</td>
+                    <td>Noon.com/egypt-en</td>
+                    <td>499.0</td>
+                    <td>599.0</td>
+                    <td>16.69</td>
+                    <td>Carbon Fiber</td>
+                    <td>6</td>
+                    <td>No</td>
+                </tr>
             </tbody>
         </table>
-
-        <div class="chart-container">
-            <canvas id="priceChart"></canvas>
-        </div>
     </div>
 
     <!-- Analysis -->
     <div class="section">
         <h2>Analysis</h2>
-        <p>The analysis reveals that the ASUS ROG Strix G15 offers the best overall performance and value, with a high refresh rate display and ample storage. The Acer Predator Helios 300 provides a great balance of performance and price, while the MSI Stealth 15M excels in portability. Budget options are available with slightly lower specifications but still offer good gaming performance.</p>
+        <p>The analysis reveals that Amazon.eg offers premium wallets with higher prices, while Jumia.com.eg and Noon.com/egypt-en provide more affordable options. Discounts vary across platforms, with Jumia.com.eg offering the highest discount percentage. Genuine leather and carbon fiber are the most common materials, with varying numbers of card slots and coin pockets.</p>
+        <div class="chart-container">
+            <canvas id="priceChart"></canvas>
+        </div>
     </div>
 
     <!-- Recommendations -->
     <div class="section">
         <h2>Recommendations</h2>
         <ul>
-            <li><strong>Best Overall:</strong> ASUS ROG Strix G15 Gaming Laptop</li>
-            <li><strong>Best Balance:</strong> Acer Predator Helios 300 Gaming Laptop</li>
-            <li><strong>Best Portability:</strong> MSI Stealth 15M Gaming Laptop</li>
-            <li><strong>Budget Option:</strong> ASUS ROG Strix G15 (Budget Config)</li>
+            <li><strong>Best Value for Money:</strong> RFID Blocking Slim Wallet from Jumia.com.eg (20.04% discount)</li>
+            <li><strong>Premium Choice:</strong> Hugo Boss Designer Leather Wallet from Amazon.eg</li>
+            <li><strong>Durable Option:</strong> Minimalist Carbon Fiber Wallet from Noon.com/egypt-en</li>
         </ul>
     </div>
 
     <!-- Conclusion -->
     <div class="section">
         <h2>Conclusion</h2>
-        <p>This report provides a detailed comparison of gaming laptops available on Amazon Egypt, highlighting the best options based on performance, price, and portability. The recommendations aim to assist Rankyx in making informed procurement decisions that align with their needs and budget.</p>
+        <p>This report provides a detailed comparison of wallet products across leading e-commerce platforms. The findings and recommendations aim to assist procurement decisions by highlighting the best options based on price, quality, and features.</p>
     </div>
 
     <!-- Appendices -->
@@ -137,16 +145,16 @@
     </div>
 </div>
 
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-    // Sample data for the chart
-    const ctx = document.getElementById('priceChart').getContext('2d');
-    const priceChart = new Chart(ctx, {
+    var ctx = document.getElementById('priceChart').getContext('2d');
+    var priceChart = new Chart(ctx, {
         type: 'bar',
         data: {
-            labels: ['ASUS ROG Strix G15', 'Acer Predator Helios 300', 'MSI Stealth 15M'],
+            labels: ['Tommy Hilfiger', 'Hugo Boss', 'RFID Blocking', 'Genuine Leather', 'Carbon Fiber'],
             datasets: [{
-                label: 'Current Price (USD)',
-                data: [1899.99, 1699.99, 1799.99],
+                label: 'Current Price (EGP)',
+                data: [1299, 1899, 399, 699, 499],
                 backgroundColor: 'rgba(75, 192, 192, 0.2)',
                 borderColor: 'rgba(75, 192, 192, 1)',
                 borderWidth: 1

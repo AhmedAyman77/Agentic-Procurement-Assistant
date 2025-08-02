@@ -11,13 +11,14 @@ from crewai.knowledge.source.string_knowledge_source import StringKnowledgeSourc
 app = FastAPI()
 
 
-os.environ["HOME"] = "/home/user"
-os.environ["XDG_CACHE_HOME"] = "/home/user/.cache"
-os.environ["XDG_CONFIG_HOME"] = "/home/user/.config"
-os.environ["PYTHONUSERBASE"] = "/home/user/.pythonuserbase"
-os.environ["TRANSFORMERS_CACHE"] = "/home/user/.cache/transformers"
-os.environ["HF_HOME"] = "/home/user/.cache/huggingface"
-os.environ["HF_DATASETS_CACHE"] = "/home/user/.cache/huggingface/datasets"
+if "SPACE_ID" in os.environ:
+    os.environ["HOME"] = "/home/user"
+    os.environ["XDG_CACHE_HOME"] = "/home/user/.cache"
+    os.environ["XDG_CONFIG_HOME"] = "/home/user/.config"
+    os.environ["PYTHONUSERBASE"] = "/home/user/.pythonuserbase"
+    os.environ["TRANSFORMERS_CACHE"] = "/home/user/.cache/transformers"
+    os.environ["HF_HOME"] = "/home/user/.cache/huggingface"
+    os.environ["HF_DATASETS_CACHE"] = "/home/user/.cache/huggingface/datasets"
 
 @app.on_event("startup")
 async def startup_event():
