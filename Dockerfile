@@ -4,7 +4,7 @@ WORKDIR /app
 
 # Copy only requirements first to leverage Docker layer caching
 COPY src/requirements.txt ./requirements.txt
-RUN pip install --upgrade pip && pip install -r requirements.txt
+RUN pip install --upgrade pip && pip install --no-cache-dir --force-reinstall -r requirements.txt
 
 # Then copy the rest of the app
 COPY src ./src
