@@ -12,9 +12,15 @@ COPY src ./src
 # Ensure Python can find all modules in /app/src
 ENV PYTHONPATH=/app/src
 
-# Set transformers cache to avoid permission errors
+# Set cache/config dirs to avoid permission errors
 ENV HF_HOME=/app/cache
-RUN mkdir -p /app/cache
+ENV TRANSFORMERS_CACHE=/app/cache/transformers
+ENV HF_DATASETS_CACHE=/app/cache/datasets
+ENV XDG_CACHE_HOME=/app/cache
+ENV XDG_CONFIG_HOME=/app/config
+ENV HOME=/app
+
+RUN mkdir -p /app/cache/transformers /app/cache/datasets /app/config
 
 EXPOSE 7860
 
