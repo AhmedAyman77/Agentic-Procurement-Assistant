@@ -9,8 +9,8 @@ RUN pip install --upgrade pip && pip install -r requirements.txt
 # Then copy the rest of the app
 COPY src ./src
 
-# Ensure Python can find all modules in /app
-ENV PYTHONPATH=/app
+# Ensure Python can find all modules in /app/src
+ENV PYTHONPATH=/app/src
 
 EXPOSE 8000
 
