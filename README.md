@@ -205,8 +205,14 @@ graph TD
 - **File:** `procurement_report.html`
 - **Content:** A professional HTML report with product tables, price comparisons, and recommendations.
 - **test output** 
-![Alt text](output.png)
 
+  ![Alt text](output.png)
+
+  ****note:**** if you get this message as a response
+  ```
+  {"message": "An error occurred while running the crew litellm.APIConnectionError: Cohere_chatException - {\"id\":\"5cb1c64b-e3a1-4ff9-a06c-b8f436733d25\",\"message\":\"You are using a Trial key, which is limited to 10 API calls / minute. You can continue to use the Trial key for free or upgrade to a Production key with higher rate limits at 'https://dashboard.cohere.com/api-keys'. Contact us on 'https://discord.gg/XW44jPfYJu' or email us at support@cohere.com with any questions\"}."
+  ```
+  This indicates that the free trial key from Cohere has hit its usage limit :(.
 --- 
 ## Quickstart
 
