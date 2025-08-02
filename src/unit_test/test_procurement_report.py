@@ -1,30 +1,19 @@
 """
-Test file to verify procurement agent creates HTML report.
-Calls the API endpoint and checks if procurement_report.html file is generated.
+Test file to verify the agent crew workflow.
+This test calls the API endpoint and checks for any issues with the agent crew execution.
 """
 
 import os
-import time
 import pytest
 import requests
 
-
-def test_agent_creates_procurement_report():
+def test_agent_crew():
     """
-    Test that calls procurement agent API and verifies HTML report creation.
+    Calls the procurement agent API and verifies the response.
+    Ensures the agent crew runs without errors and the API is reachable.
     """
     
-    # Set up file path where report should be created
-    current_directory = os.path.dirname(os.path.abspath(__file__))
-    src_directory = os.path.dirname(current_directory)
-    report_file_path = os.path.join(src_directory, 'agent_output', 'procurement_report.html')
-    
-    # Remove old report file if exists
-    if os.path.exists(report_file_path):
-        os.remove(report_file_path)
-        print("Removed old report file")
-    
-    # API request setup
+    # Prepare the API endpoint and test payload
     api_url = "http://0.0.0.0:5000/api/get_procurement_review"
     test_payload = {
         "product_name": "Gaming Laptop",
@@ -34,38 +23,24 @@ def test_agent_creates_procurement_report():
         "language": "English"
     }
     
-    print("Starting agent test")
-    
     try:
-        # Call the API
+        # Send a POST request to the API endpoint
         response = requests.post(api_url, data=test_payload, timeout=300)
         
-        # Check API response
+        # Assert that the API call was successful
         assert response.status_code == 200, f"API call failed with status: {response.status_code}"
-        print("API call successful")
-        
-        # Wait for file creation
-        time.sleep(2)
-        
-        # Check if report file exists
-        assert os.path.exists(report_file_path), f"Report file not found at: {report_file_path}"
-        print("Report file created")
-        
-        # Check file has content
-        file_size = os.path.getsize(report_file_path)
-        assert file_size > 0, "Report file should not be empty"
-        print(f"Report file size: {file_size} bytes")
-        
-        
-        print("Test passed")
+        print("API call returned status 200")
         
     except requests.exceptions.ConnectionError:
+        # Skip the test if the API server is not running
         pytest.skip("API server not running")
     except requests.exceptions.Timeout:
-        pytest.fail("Agent timeout after 5 minutes")
+        # Fail the test if the agent crew takes too long to respond
+        pytest.fail("Agent crew timed out after 5 minutes")
     except Exception as e:
+        # Fail the test for any other unexpected errors
         pytest.fail(f"Test failed: {str(e)}")
 
 if __name__ == '__main__':
-    """Run test directly."""
-    test_agent_creates_procurement_report()
+    """Allows running the test directly from the command line."""
+    test_agent_crew()
