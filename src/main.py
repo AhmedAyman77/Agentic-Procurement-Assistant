@@ -15,6 +15,7 @@ async def startup_event():
     """
     Startup event to initialize resources.
     """
+    env_settings = get_settings()
 
     # # Huggingface cache directories
     # os.environ["HF_HOME"] = "/home/user/.cache/huggingface"
@@ -26,7 +27,6 @@ async def startup_event():
     
     os.environ["COHERE_API_KEY"] = env_settings.COHERE_API_KEY
 
-    env_settings = get_settings()
     app.basic_llm = LLM(model=env_settings.LLM, temperature=0)
     app.search_client = TavilyClient(api_key=env_settings.TAVILY_API_KEY)
     app.scrape_client = Client(api_key=env_settings.SCRAPEGRAPH_API_KEY)
