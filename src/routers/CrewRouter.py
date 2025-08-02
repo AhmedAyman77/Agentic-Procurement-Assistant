@@ -39,7 +39,7 @@ async def get_procurement_review(
         logger.error(f"Error in CrewControllers: {e}")
         return JSONResponse(
             status_code=500,
-            content={"message": "An error occurred when preparing the crew."}
+            content={"message": f"An error occurred when preparing the crew {e}."}
         )
     
     try:
@@ -49,7 +49,7 @@ async def get_procurement_review(
         logger.error(f"Error in crew_results: {e}")
         return JSONResponse(
             status_code=500,
-            content={"message": "An error occurred while running the crew."}
+            content={"message": f"An error occurred while running the crew {e}."}
         )
     
 
