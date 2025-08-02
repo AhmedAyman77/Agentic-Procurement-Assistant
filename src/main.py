@@ -1,13 +1,14 @@
 import os
 import agentops
 from crewai import LLM
-from routers import CrewRouter
 from fastapi import FastAPI
 from tavily import TavilyClient
 from scrapegraph_py import Client
 from helpers.config import get_settings
 from agents import AgentsEnum
 from crewai.knowledge.source.string_knowledge_source import StringKnowledgeSource
+
+from .routers import CrewRouter
 
 app = FastAPI()
 
