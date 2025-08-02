@@ -1,26 +1,31 @@
 FROM python:3.11-slim
 
-WORKDIR /app
+# Create a non-root user and home directory for Hugging Face Spaces compatibility
+RUN useradd -m user
+USER user
+WORKDIR /home/user/app
 
-# Copy only requirements first to leverage Docker layer caching
+# Copy requirements and install dependencies
 COPY src/requirements.txt ./requirements.txt
+ENV HOME=/home/user
+ENV XDG_CACHE_HOME=/home/user/.cache
+ENV XDG_CONFIG_HOME=/home/user/.config
+ENV PYTHONUSERBASE=/home/user/.pythonuserbase
+ENV TRANSFORMERS_CACHE=/home/user/.cache/transformers
+ENV HF_HOME=/home/user/.cache/huggingface
+ENV HF_DATASETS_CACHE=/home/user/.cache/huggingface/datasets
+ENV PYTHONPATH=/home/user/app/src
+
+RUN mkdir -p /home/user/.cache \
+    /home/user/.config \
+    /home/user/.pythonuserbase \
+    /home/user/.cache/transformers \
+    /home/user/.cache/huggingface/datasets
+
 RUN pip install --upgrade pip && pip install --no-cache-dir --force-reinstall -r requirements.txt
 
-# Then copy the rest of the app
+# Copy the rest of the app
 COPY src ./src
-
-# Ensure Python can find all modules in /app/src
-ENV PYTHONPATH=/app/src
-
-# Set cache/config dirs to avoid permission errors
-ENV HF_HOME=/app/cache
-ENV TRANSFORMERS_CACHE=/app/cache/transformers
-ENV HF_DATASETS_CACHE=/app/cache/datasets
-ENV XDG_CACHE_HOME=/app/cache
-ENV XDG_CONFIG_HOME=/app/config
-ENV HOME=/app
-
-RUN mkdir -p /app/cache/transformers /app/cache/datasets /app/config
 
 EXPOSE 7860
 
