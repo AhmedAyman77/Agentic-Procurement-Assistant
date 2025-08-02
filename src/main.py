@@ -23,7 +23,8 @@ async def startup_event():
     agentops.init(
         api_key=os.environ["AGENTOPS_API_KEY"],
         skip_auto_end_session=True,
-        default_tags=['crewai']
+        default_tags=['crewai'],
+            log_file="/tmp/agentops.log"
     )
 
     app.basic_llm = LLM(model=env_settings.LLM, temperature=0)
