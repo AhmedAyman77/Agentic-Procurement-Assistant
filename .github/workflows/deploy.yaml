@@ -22,15 +22,15 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r src/requirements.txt
       
-
+      
       - name: Run FastAPI server and tests
         run: |
+          export PYTHONPATH=$PYTHONPATH:$(pwd)/src
           uvicorn src.main:app --host 0.0.0.0 --port 5000 &
           SERVER_PID=$!
           sleep 3
           pytest src/unit_test
           kill $SERVER_PID
-
 
       - name: Set up Git
         run: |
