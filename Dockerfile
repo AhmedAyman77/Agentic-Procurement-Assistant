@@ -12,6 +12,10 @@ COPY src ./src
 # Ensure Python can find all modules in /app/src
 ENV PYTHONPATH=/app/src
 
+# Set transformers cache to avoid permission errors
+ENV HF_HOME=/app/cache
+RUN mkdir -p /app/cache
+
 EXPOSE 7860
 
 CMD ["uvicorn", "src.main:app", "--host", "0.0.0.0", "--port", "7860"]
