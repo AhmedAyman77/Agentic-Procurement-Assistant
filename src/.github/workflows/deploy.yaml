@@ -1,0 +1,35 @@
+name: Test and Deploy to Hugging Face Space
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  test-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run tests
+        run: pytest src/unit_test
+
+      - name: Set up Git
+        run: |
+          git config --global user.email "ai388981@gmail.com"
+          git config --global user.name "AhmedAyman77"
+
+      - name: Push to Hugging Face Space
+        env:
+          HF_TOKEN: ${{secrets.HF_TOKEN}}
+        run: |
+          git remote add hf https://huggingface.co/spaces/A7medAyman/Agentic-Procurement-Assistant
+          git fetch hf
+          git push hf main --force

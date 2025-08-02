@@ -7,3 +7,4 @@ uvicorn[standard]
 python-multipart
 pydantic
 python-dotenv
+pytest==8.4.1

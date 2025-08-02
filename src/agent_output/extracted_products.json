@@ -1,293 +1,363 @@
 {
   "products": [
     {
-      "page_url": "https://www.amazon.eg/search?query=Tommy+Hilfiger+leather+wallet",
-      "product_title": "Tommy Hilfiger Men's Leather Wallet",
-      "product_image_url": "https://images-na.ssl-images-amazon.com/images/I/81XY9JY89Z.jpg",
-      "product_url": "https://www.amazon.eg/Tommy-Hilfiger-Mens-Leather-Wallet/dp/B0894JY89Z",
+      "page_url": "https://www.amazon.com/s?k=ASUS+ROG+Strix+G15+gaming+laptop+Egypt",
+      "product_title": "ASUS ROG Strix G15 Gaming Laptop",
+      "product_image_url": "https://m.media-amazon.com/images/I/71t1W+v6mWL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.com/dp/B08N5WRWNT",
       "product_current_price": 1299.99,
       "product_original_price": 1499.99,
       "product_discount_percentage": 13.33,
       "product_specs": [
         {
-          "specification_name": "Material",
-          "specification_value": "Genuine Leather"
+          "specification_name": "Processor",
+          "specification_value": "AMD Ryzen 7"
         },
         {
-          "specification_name": "Card Slots",
-          "specification_value": "8"
+          "specification_name": "RAM",
+          "specification_value": "16GB"
         },
         {
-          "specification_name": "Coin Pocket",
-          "specification_value": "Yes"
+          "specification_name": "Storage",
+          "specification_value": "512GB SSD"
+        },
+        {
+          "specification_name": "Graphics",
+          "specification_value": "NVIDIA GeForce RTX 3070"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6' FHD 300Hz"
         }
       ],
       "agent_recommendation_rank": 1,
       "agent_recommendation_notes": [
-        "High-quality leather",
-        "Brand reputation",
-        "Good discount"
+        "High refresh rate display",
+        "Powerful GPU for gaming"
       ]
     },
     {
-      "page_url": "https://www.jumia.eg/search?query=RFID+blocking+wallet",
-      "product_title": "RFID Blocking Slim Wallet",
-      "product_image_url": "https://egypt.jumia.net/images/I/7123456789.jpg",
-      "product_url": "https://www.jumia.eg/rfid-blocking-slim-wallet-234567/",
-      "product_current_price": 299.99,
-      "product_original_price": 399.99,
-      "product_discount_percentage": 25.0,
-      "product_specs": [
-        {
-          "specification_name": "Material",
-          "specification_value": "Synthetic Leather"
-        },
-        {
-          "specification_name": "RFID Protection",
-          "specification_value": "Yes"
-        },
-        {
-          "specification_name": "Colors",
-          "specification_value": "Black, Brown"
-        }
-      ],
-      "agent_recommendation_rank": 2,
-      "agent_recommendation_notes": [
-        "Affordable",
-        "RFID protection",
-        "Compact design"
-      ]
-    },
-    {
-      "page_url": "https://www.noon.com/egypt-en/search?query=Gucci+wallet",
-      "product_title": "Gucci GG Supreme Canvas Wallet",
-      "product_image_url": "https://f.nooncdn.com/products/456789.jpg",
-      "product_url": "https://www.noon.com/egypt-en/gucci-gg-supreme-canvas-wallet-456789/",
-      "product_current_price": 4999.99,
-      "product_original_price": 5999.99,
-      "product_discount_percentage": 16.67,
-      "product_specs": [
-        {
-          "specification_name": "Material",
-          "specification_value": "GG Supreme Canvas"
-        },
-        {
-          "specification_name": "Compartments",
-          "specification_value": "Multiple"
-        },
-        {
-          "specification_name": "Logo",
-          "specification_value": "Gucci Logo"
-        }
-      ],
-      "agent_recommendation_rank": 3,
-      "agent_recommendation_notes": [
-        "Luxury brand",
-        "High-quality material",
-        "Premium design"
-      ]
-    },
-    {
-      "page_url": "https://www.amazon.eg/search?query=minimalist+wallet",
-      "product_title": "Minimalist Front Pocket Wallet",
-      "product_image_url": "https://images-na.ssl-images-amazon.com/images/I/7H8L9JKM.jpg",
-      "product_url": "https://www.amazon.eg/Minimalist-Front-Pocket-Wallet/dp/B07H8L9JKM",
-      "product_current_price": 199.99,
-      "product_original_price": 249.99,
-      "product_discount_percentage": 20.0,
-      "product_specs": [
-        {
-          "specification_name": "Material",
-          "specification_value": "Aluminum + Elastic"
-        },
-        {
-          "specification_name": "Capacity",
-          "specification_value": "Up to 10 cards"
-        },
-        {
-          "specification_name": "Design",
-          "specification_value": "Ultra-slim"
-        }
-      ],
-      "agent_recommendation_rank": 4,
-      "agent_recommendation_notes": [
-        "Lightweight",
-        "Affordable",
-        "Minimalist design"
-      ]
-    },
-    {
-      "page_url": "https://www.jumia.eg/search?query=Fossil+wallet",
-      "product_title": "Fossil Leather Bifold Wallet",
-      "product_image_url": "https://egypt.jumia.net/images/I/123456.jpg",
-      "product_url": "https://www.jumia.eg/fossil-leather-bifold-wallet-123456/",
-      "product_current_price": 899.99,
-      "product_original_price": 999.99,
-      "product_discount_percentage": 10.0,
-      "product_specs": [
-        {
-          "specification_name": "Material",
-          "specification_value": "Premium Leather"
-        },
-        {
-          "specification_name": "Design",
-          "specification_value": "Bifold"
-        },
-        {
-          "specification_name": "Logo",
-          "specification_value": "Fossil Embossed"
-        }
-      ],
-      "agent_recommendation_rank": 5,
-      "agent_recommendation_notes": [
-        "Classic design",
-        "Durable material",
-        "Brand reputation"
-      ]
-    },
-    {
-      "page_url": "https://www.amazon.eg/search?query=Tommy+Hilfiger+leather+wallet",
-      "product_title": "Tommy Hilfiger Women's Leather Wallet",
-      "product_image_url": "https://images-na.ssl-images-amazon.com/images/I/91XY9JY89Z.jpg",
-      "product_url": "https://www.amazon.eg/Tommy-Hilfiger-Womens-Leather-Wallet/dp/B0894JY89A",
+      "page_url": "https://www.amazon.com/s?k=MSI+Stealth+15M+gaming+laptop+Egypt",
+      "product_title": "MSI Stealth 15M Gaming Laptop",
+      "product_image_url": "https://m.media-amazon.com/images/I/610-NZZ6mWL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.com/dp/B092QZ4Y8F",
       "product_current_price": 1199.99,
       "product_original_price": 1399.99,
       "product_discount_percentage": 14.28,
       "product_specs": [
         {
-          "specification_name": "Material",
-          "specification_value": "Genuine Leather"
+          "specification_name": "Processor",
+          "specification_value": "Intel Core i7"
         },
         {
-          "specification_name": "Card Slots",
-          "specification_value": "6"
+          "specification_name": "RAM",
+          "specification_value": "16GB"
         },
         {
-          "specification_name": "Zipper Pocket",
-          "specification_value": "Yes"
+          "specification_name": "Storage",
+          "specification_value": "1TB SSD"
+        },
+        {
+          "specification_name": "Graphics",
+          "specification_value": "NVIDIA GeForce RTX 3060"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6' QHD 165Hz"
+        }
+      ],
+      "agent_recommendation_rank": 2,
+      "agent_recommendation_notes": [
+        "Large storage capacity",
+        "High-resolution display"
+      ]
+    },
+    {
+      "page_url": "https://www.amazon.com/s?k=Acer+Predator+Helios+300+gaming+laptop+Egypt",
+      "product_title": "Acer Predator Helios 300 Gaming Laptop",
+      "product_image_url": "https://m.media-amazon.com/images/I/71q-vZ6mWL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8H",
+      "product_current_price": 1099.99,
+      "product_original_price": 1299.99,
+      "product_discount_percentage": 15.38,
+      "product_specs": [
+        {
+          "specification_name": "Processor",
+          "specification_value": "Intel Core i7"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "512GB SSD"
+        },
+        {
+          "specification_name": "Graphics",
+          "specification_value": "NVIDIA GeForce RTX 3060"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6' FHD 144Hz"
+        }
+      ],
+      "agent_recommendation_rank": 3,
+      "agent_recommendation_notes": [
+        "Good balance of performance and price",
+        "Suitable for gaming and productivity"
+      ]
+    },
+    {
+      "page_url": "https://www.amazon.com/s?k=ASUS+ROG+Zephyrus+G14+gaming+laptop+Egypt",
+      "product_title": "ASUS ROG Zephyrus G14 Gaming Laptop",
+      "product_image_url": "https://m.media-amazon.com/images/I/71G-vZ6mWL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.com/dp/B08N65YWNT",
+      "product_current_price": 999.99,
+      "product_original_price": 1199.99,
+      "product_discount_percentage": 16.68,
+      "product_specs": [
+        {
+          "specification_name": "Processor",
+          "specification_value": "AMD Ryzen 9"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "8GB"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "512GB SSD"
+        },
+        {
+          "specification_name": "Graphics",
+          "specification_value": "NVIDIA GeForce RTX 2060"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "14' FHD 120Hz"
+        }
+      ],
+      "agent_recommendation_rank": 4,
+      "agent_recommendation_notes": [
+        "Compact and portable design",
+        "Good performance for its size"
+      ]
+    },
+    {
+      "page_url": "https://www.amazon.com/s?k=Dell+G5+gaming+laptop+Egypt",
+      "product_title": "Dell G5 Gaming Laptop",
+      "product_image_url": "https://m.media-amazon.com/images/I/61G-vZ6mWL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8G",
+      "product_current_price": 899.99,
+      "product_original_price": 1099.99,
+      "product_discount_percentage": 18.18,
+      "product_specs": [
+        {
+          "specification_name": "Processor",
+          "specification_value": "Intel Core i5"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "8GB"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "256GB SSD"
+        },
+        {
+          "specification_name": "Graphics",
+          "specification_value": "NVIDIA GeForce GTX 1650"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6' FHD 120Hz"
+        }
+      ],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_notes": [
+        "Budget-friendly option",
+        "Decent performance for casual gaming"
+      ]
+    },
+    {
+      "page_url": "https://www.amazon.com/s?k=HP+OMEN+15+gaming+laptop+Egypt",
+      "product_title": "HP OMEN 15 Gaming Laptop",
+      "product_image_url": "https://m.media-amazon.com/images/I/71H-vZ6mWL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8F",
+      "product_current_price": 1049.99,
+      "product_original_price": 1249.99,
+      "product_discount_percentage": 16.0,
+      "product_specs": [
+        {
+          "specification_name": "Processor",
+          "specification_value": "Intel Core i7"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "512GB SSD"
+        },
+        {
+          "specification_name": "Graphics",
+          "specification_value": "NVIDIA GeForce RTX 3060"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6' FHD 144Hz"
         }
       ],
       "agent_recommendation_rank": 6,
       "agent_recommendation_notes": [
-        "Stylish design",
-        "Good discount",
-        "Brand reputation"
+        "Solid build quality",
+        "Good thermal management"
       ]
     },
     {
-      "page_url": "https://www.jumia.eg/search?query=RFID+blocking+wallet",
-      "product_title": "Aluma Wallet RFID Blocking",
-      "product_image_url": "https://egypt.jumia.net/images/I/345678.jpg",
-      "product_url": "https://www.jumia.eg/aluma-wallet-rfid-blocking-345678/",
-      "product_current_price": 349.99,
-      "product_original_price": 449.99,
-      "product_discount_percentage": 22.22,
+      "page_url": "https://www.amazon.com/s?k=Lenovo+Legion+5+gaming+laptop+Egypt",
+      "product_title": "Lenovo Legion 5 Gaming Laptop",
+      "product_image_url": "https://m.media-amazon.com/images/I/61J-vZ6mWL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8J",
+      "product_current_price": 949.99,
+      "product_original_price": 1149.99,
+      "product_discount_percentage": 17.41,
       "product_specs": [
         {
-          "specification_name": "Material",
-          "specification_value": "Aluminum"
+          "specification_name": "Processor",
+          "specification_value": "AMD Ryzen 7"
         },
         {
-          "specification_name": "RFID Protection",
-          "specification_value": "Yes"
+          "specification_name": "RAM",
+          "specification_value": "16GB"
         },
         {
-          "specification_name": "Capacity",
-          "specification_value": "Up to 12 cards"
+          "specification_name": "Storage",
+          "specification_value": "512GB SSD"
+        },
+        {
+          "specification_name": "Graphics",
+          "specification_value": "NVIDIA GeForce GTX 1660 Ti"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6' FHD 120Hz"
         }
       ],
       "agent_recommendation_rank": 7,
       "agent_recommendation_notes": [
-        "Durable material",
-        "Good RFID protection",
-        "Affordable"
+        "Good value for money",
+        "Reliable performance"
       ]
     },
     {
-      "page_url": "https://www.noon.com/egypt-en/search?query=Gucci+wallet",
-      "product_title": "Gucci Leather Bi-Fold Wallet",
-      "product_image_url": "https://f.nooncdn.com/products/567890.jpg",
-      "product_url": "https://www.noon.com/egypt-en/gucci-leather-bi-fold-wallet-567890/",
-      "product_current_price": 5499.99,
-      "product_original_price": 6499.99,
-      "product_discount_percentage": 15.4,
+      "page_url": "https://www.amazon.com/s?k=Gigabyte+Aorus+15P+gaming+laptop+Egypt",
+      "product_title": "Gigabyte Aorus 15P Gaming Laptop",
+      "product_image_url": "https://m.media-amazon.com/images/I/71K-vZ6mWL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8L",
+      "product_current_price": 1399.99,
+      "product_original_price": 1599.99,
+      "product_discount_percentage": 12.5,
       "product_specs": [
         {
-          "specification_name": "Material",
-          "specification_value": "Genuine Leather"
+          "specification_name": "Processor",
+          "specification_value": "Intel Core i7"
         },
         {
-          "specification_name": "Design",
-          "specification_value": "Bi-Fold"
+          "specification_name": "RAM",
+          "specification_value": "32GB"
         },
         {
-          "specification_name": "Logo",
-          "specification_value": "Gucci Logo"
+          "specification_name": "Storage",
+          "specification_value": "1TB SSD"
+        },
+        {
+          "specification_name": "Graphics",
+          "specification_value": "NVIDIA GeForce RTX 3070"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6' FHD 240Hz"
         }
       ],
       "agent_recommendation_rank": 8,
       "agent_recommendation_notes": [
-        "Luxury brand",
-        "High-quality material",
-        "Elegant design"
+        "High-end performance",
+        "Premium build quality"
       ]
     },
     {
-      "page_url": "https://www.amazon.eg/search?query=minimalist+wallet",
-      "product_title": "Slim Minimalist Wallet",
-      "product_image_url": "https://images-na.ssl-images-amazon.com/images/I/6H8L9JKM.jpg",
-      "product_url": "https://www.amazon.eg/Slim-Minimalist-Wallet/dp/B07H8L9JKL",
-      "product_current_price": 149.99,
-      "product_original_price": 199.99,
-      "product_discount_percentage": 25.0,
+      "page_url": "https://www.amazon.com/s?k=Razer+Blade+15+gaming+laptop+Egypt",
+      "product_title": "Razer Blade 15 Gaming Laptop",
+      "product_image_url": "https://m.media-amazon.com/images/I/71L-vZ6mWL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8M",
+      "product_current_price": 1499.99,
+      "product_original_price": 1699.99,
+      "product_discount_percentage": 11.76,
       "product_specs": [
         {
-          "specification_name": "Material",
-          "specification_value": "Synthetic Leather"
+          "specification_name": "Processor",
+          "specification_value": "Intel Core i7"
         },
         {
-          "specification_name": "Capacity",
-          "specification_value": "Up to 8 cards"
+          "specification_name": "RAM",
+          "specification_value": "16GB"
         },
         {
-          "specification_name": "Design",
-          "specification_value": "Ultra-slim"
+          "specification_name": "Storage",
+          "specification_value": "512GB SSD"
+        },
+        {
+          "specification_name": "Graphics",
+          "specification_value": "NVIDIA GeForce RTX 3070"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6' FHD 360Hz"
         }
       ],
       "agent_recommendation_rank": 9,
       "agent_recommendation_notes": [
-        "Very affordable",
-        "Lightweight",
-        "Simple design"
+        "Ultra-high refresh rate display",
+        "Premium design"
       ]
     },
     {
-      "page_url": "https://www.jumia.eg/search?query=Fossil+wallet",
-      "product_title": "Fossil Ingram Leather Wallet",
-      "product_image_url": "https://egypt.jumia.net/images/I/234567.jpg",
-      "product_url": "https://www.jumia.eg/fossil-ingram-leather-wallet-234567/",
-      "product_current_price": 799.99,
-      "product_original_price": 899.99,
+      "page_url": "https://www.amazon.com/s?k=Alienware+m15+gaming+laptop+Egypt",
+      "product_title": "Alienware m15 Gaming Laptop",
+      "product_image_url": "https://m.media-amazon.com/images/I/71M-vZ6mWL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8N",
+      "product_current_price": 1599.99,
+      "product_original_price": 1799.99,
       "product_discount_percentage": 11.11,
       "product_specs": [
         {
-          "specification_name": "Material",
-          "specification_value": "Genuine Leather"
+          "specification_name": "Processor",
+          "specification_value": "Intel Core i7"
         },
         {
-          "specification_name": "Design",
-          "specification_value": "Trifold"
+          "specification_name": "RAM",
+          "specification_value": "32GB"
         },
         {
-          "specification_name": "Logo",
-          "specification_value": "Fossil Embossed"
+          "specification_name": "Storage",
+          "specification_value": "1TB SSD"
+        },
+        {
+          "specification_name": "Graphics",
+          "specification_value": "NVIDIA GeForce RTX 3080"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6' FHD 300Hz"
         }
       ],
       "agent_recommendation_rank": 10,
       "agent_recommendation_notes": [
-        "Classic design",
-        "Good discount",
-        "Brand reputation"
+        "Top-tier performance",
+        "Iconic Alienware design"
       ]
     }
   ]
