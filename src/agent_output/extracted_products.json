@@ -1,61 +1,52 @@
 {
   "products": [
     {
-      "page_url": "https://www.amazon.com/s?k=ASUS+ROG+Strix+G15+gaming+laptop+Egypt",
-      "product_title": "ASUS ROG Strix G15 Gaming Laptop",
-      "product_image_url": "https://m.media-amazon.com/images/I/71t1W+v6mWL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.com/dp/B08N5WRWNT",
-      "product_current_price": 1299.99,
-      "product_original_price": 1499.99,
-      "product_discount_percentage": 13.33,
+      "page_url": "https://www.amazon.eg/s?k=ASUS+ROG+Strix+RTX+3060+gaming+laptop",
+      "product_title": "ASUS ROG Strix G15 Gaming Laptop, RTX 3060, 15.6\" FHD 300Hz, Ryzen 7 5800H, 16GB DDR4, 1TB SSD",
+      "product_image_url": "https://m.media-amazon.com/images/I/81hF2zJn8dL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B09T2Z7W8C",
+      "product_current_price": 1899.99,
+      "product_original_price": 2099.99,
+      "product_discount_percentage": 9.5,
       "product_specs": [
         {
           "specification_name": "Processor",
-          "specification_value": "AMD Ryzen 7"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "16GB"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "512GB SSD"
+          "specification_value": "Ryzen 7 5800H"
         },
         {
           "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3070"
+          "specification_value": "NVIDIA GeForce RTX 3060"
         },
         {
           "specification_name": "Display",
-          "specification_value": "15.6' FHD 300Hz"
+          "specification_value": "15.6\" FHD 300Hz"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB DDR4"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "1TB SSD"
         }
       ],
       "agent_recommendation_rank": 1,
       "agent_recommendation_notes": [
-        "High refresh rate display",
-        "Powerful GPU for gaming"
+        "Best overall performance and value for gamers."
       ]
     },
     {
-      "page_url": "https://www.amazon.com/s?k=MSI+Stealth+15M+gaming+laptop+Egypt",
-      "product_title": "MSI Stealth 15M Gaming Laptop",
-      "product_image_url": "https://m.media-amazon.com/images/I/610-NZZ6mWL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.com/dp/B092QZ4Y8F",
-      "product_current_price": 1199.99,
-      "product_original_price": 1399.99,
-      "product_discount_percentage": 14.28,
+      "page_url": "https://www.amazon.eg/s?k=Acer+Predator+Helios+144Hz+gaming+laptop",
+      "product_title": "Acer Predator Helios 300 Gaming Laptop, 15.6\" FHD 144Hz, Intel i7-11800H, RTX 3060, 16GB DDR4, 512GB SSD",
+      "product_image_url": "https://m.media-amazon.com/images/I/81+l7zJn8dL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B08N5WNY6H",
+      "product_current_price": 1699.99,
+      "product_original_price": 1899.99,
+      "product_discount_percentage": 10.5,
       "product_specs": [
         {
           "specification_name": "Processor",
-          "specification_value": "Intel Core i7"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "16GB"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "1TB SSD"
+          "specification_value": "Intel i7-11800H"
         },
         {
           "specification_name": "Graphics",
@@ -63,35 +54,34 @@
         },
         {
           "specification_name": "Display",
-          "specification_value": "15.6' QHD 165Hz"
+          "specification_value": "15.6\" FHD 144Hz"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB DDR4"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "512GB SSD"
         }
       ],
       "agent_recommendation_rank": 2,
       "agent_recommendation_notes": [
-        "Large storage capacity",
-        "High-resolution display"
+        "Great balance of performance and price."
       ]
     },
     {
-      "page_url": "https://www.amazon.com/s?k=Acer+Predator+Helios+300+gaming+laptop+Egypt",
-      "product_title": "Acer Predator Helios 300 Gaming Laptop",
-      "product_image_url": "https://m.media-amazon.com/images/I/71q-vZ6mWL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8H",
-      "product_current_price": 1099.99,
-      "product_original_price": 1299.99,
-      "product_discount_percentage": 15.38,
+      "page_url": "https://www.amazon.eg/s?k=MSI+Stealth+15M+i7+11th+Gen+gaming+laptop",
+      "product_title": "MSI Stealth 15M Gaming Laptop, 15.6\" FHD 144Hz, Intel i7-11375H, RTX 3060, 16GB DDR4, 512GB NVMe SSD",
+      "product_image_url": "https://m.media-amazon.com/images/I/81hF2zJn8dL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B092T6ZJ8M",
+      "product_current_price": 1799.99,
+      "product_original_price": 1999.99,
+      "product_discount_percentage": 10.0,
       "product_specs": [
         {
           "specification_name": "Processor",
-          "specification_value": "Intel Core i7"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "16GB"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "512GB SSD"
+          "specification_value": "Intel i7-11375H"
         },
         {
           "specification_name": "Graphics",
@@ -99,107 +89,34 @@
         },
         {
           "specification_name": "Display",
-          "specification_value": "15.6' FHD 144Hz"
+          "specification_value": "15.6\" FHD 144Hz"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB DDR4"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "512GB NVMe SSD"
         }
       ],
       "agent_recommendation_rank": 3,
       "agent_recommendation_notes": [
-        "Good balance of performance and price",
-        "Suitable for gaming and productivity"
+        "Excellent portability without compromising performance."
       ]
     },
     {
-      "page_url": "https://www.amazon.com/s?k=ASUS+ROG+Zephyrus+G14+gaming+laptop+Egypt",
-      "product_title": "ASUS ROG Zephyrus G14 Gaming Laptop",
-      "product_image_url": "https://m.media-amazon.com/images/I/71G-vZ6mWL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.com/dp/B08N65YWNT",
-      "product_current_price": 999.99,
-      "product_original_price": 1199.99,
-      "product_discount_percentage": 16.68,
+      "page_url": "https://www.amazon.eg/s?k=ASUS+ROG+Strix+RTX+3060+gaming+laptop",
+      "product_title": "ASUS ROG Strix G15 (Alternate Config)",
+      "product_image_url": "https://m.media-amazon.com/images/I/81+l7zJn8dL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B09T2Z7W8D",
+      "product_current_price": 1749.99,
+      "product_original_price": 1949.99,
+      "product_discount_percentage": 10.3,
       "product_specs": [
         {
           "specification_name": "Processor",
-          "specification_value": "AMD Ryzen 9"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "8GB"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "512GB SSD"
-        },
-        {
-          "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 2060"
-        },
-        {
-          "specification_name": "Display",
-          "specification_value": "14' FHD 120Hz"
-        }
-      ],
-      "agent_recommendation_rank": 4,
-      "agent_recommendation_notes": [
-        "Compact and portable design",
-        "Good performance for its size"
-      ]
-    },
-    {
-      "page_url": "https://www.amazon.com/s?k=Dell+G5+gaming+laptop+Egypt",
-      "product_title": "Dell G5 Gaming Laptop",
-      "product_image_url": "https://m.media-amazon.com/images/I/61G-vZ6mWL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8G",
-      "product_current_price": 899.99,
-      "product_original_price": 1099.99,
-      "product_discount_percentage": 18.18,
-      "product_specs": [
-        {
-          "specification_name": "Processor",
-          "specification_value": "Intel Core i5"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "8GB"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "256GB SSD"
-        },
-        {
-          "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce GTX 1650"
-        },
-        {
-          "specification_name": "Display",
-          "specification_value": "15.6' FHD 120Hz"
-        }
-      ],
-      "agent_recommendation_rank": 5,
-      "agent_recommendation_notes": [
-        "Budget-friendly option",
-        "Decent performance for casual gaming"
-      ]
-    },
-    {
-      "page_url": "https://www.amazon.com/s?k=HP+OMEN+15+gaming+laptop+Egypt",
-      "product_title": "HP OMEN 15 Gaming Laptop",
-      "product_image_url": "https://m.media-amazon.com/images/I/71H-vZ6mWL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8F",
-      "product_current_price": 1049.99,
-      "product_original_price": 1249.99,
-      "product_discount_percentage": 16.0,
-      "product_specs": [
-        {
-          "specification_name": "Processor",
-          "specification_value": "Intel Core i7"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "16GB"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "512GB SSD"
+          "specification_value": "Ryzen 7 5800H"
         },
         {
           "specification_name": "Graphics",
@@ -207,157 +124,230 @@
         },
         {
           "specification_name": "Display",
-          "specification_value": "15.6' FHD 144Hz"
+          "specification_value": "15.6\" FHD 165Hz"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB DDR4"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "512GB SSD"
+        }
+      ],
+      "agent_recommendation_rank": 4,
+      "agent_recommendation_notes": [
+        "Slightly lower refresh rate but still a great option."
+      ]
+    },
+    {
+      "page_url": "https://www.amazon.eg/s?k=Acer+Predator+Helios+144Hz+gaming+laptop",
+      "product_title": "Acer Predator Helios 300 (Alternate Config)",
+      "product_image_url": "https://m.media-amazon.com/images/I/81hF2zJn8dL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B08N5WNY6G",
+      "product_current_price": 1599.99,
+      "product_original_price": 1799.99,
+      "product_discount_percentage": 11.1,
+      "product_specs": [
+        {
+          "specification_name": "Processor",
+          "specification_value": "Intel i7-10750H"
+        },
+        {
+          "specification_name": "Graphics",
+          "specification_value": "NVIDIA GeForce RTX 3060"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6\" FHD 144Hz"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB DDR4"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "512GB SSD"
+        }
+      ],
+      "agent_recommendation_rank": 5,
+      "agent_recommendation_notes": [
+        "Older processor but still a solid choice for gaming."
+      ]
+    },
+    {
+      "page_url": "https://www.amazon.eg/s?k=MSI+Stealth+15M+i7+11th+Gen+gaming+laptop",
+      "product_title": "MSI Stealth 15M (Alternate Config)",
+      "product_image_url": "https://m.media-amazon.com/images/I/81+l7zJn8dL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B092T6ZJ8N",
+      "product_current_price": 1649.99,
+      "product_original_price": 1849.99,
+      "product_discount_percentage": 10.8,
+      "product_specs": [
+        {
+          "specification_name": "Processor",
+          "specification_value": "Intel i7-11375H"
+        },
+        {
+          "specification_name": "Graphics",
+          "specification_value": "NVIDIA GeForce RTX 3060"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6\" FHD 120Hz"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB DDR4"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "512GB NVMe SSD"
         }
       ],
       "agent_recommendation_rank": 6,
       "agent_recommendation_notes": [
-        "Solid build quality",
-        "Good thermal management"
+        "Lower refresh rate but still a good portable option."
       ]
     },
     {
-      "page_url": "https://www.amazon.com/s?k=Lenovo+Legion+5+gaming+laptop+Egypt",
-      "product_title": "Lenovo Legion 5 Gaming Laptop",
-      "product_image_url": "https://m.media-amazon.com/images/I/61J-vZ6mWL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8J",
-      "product_current_price": 949.99,
-      "product_original_price": 1149.99,
-      "product_discount_percentage": 17.41,
+      "page_url": "https://www.amazon.eg/s?k=ASUS+ROG+Strix+RTX+3060+gaming+laptop",
+      "product_title": "ASUS ROG Strix G15 (Budget Config)",
+      "product_image_url": "https://m.media-amazon.com/images/I/81hF2zJn8dL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B09T2Z7W8F",
+      "product_current_price": 1549.99,
+      "product_original_price": 1749.99,
+      "product_discount_percentage": 11.4,
       "product_specs": [
         {
           "specification_name": "Processor",
-          "specification_value": "AMD Ryzen 7"
+          "specification_value": "Ryzen 5 5600H"
+        },
+        {
+          "specification_name": "Graphics",
+          "specification_value": "NVIDIA GeForce RTX 3060"
+        },
+        {
+          "specification_name": "Display",
+          "specification_value": "15.6\" FHD 144Hz"
         },
         {
           "specification_name": "RAM",
-          "specification_value": "16GB"
+          "specification_value": "8GB DDR4"
         },
         {
           "specification_name": "Storage",
           "specification_value": "512GB SSD"
-        },
-        {
-          "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce GTX 1660 Ti"
-        },
-        {
-          "specification_name": "Display",
-          "specification_value": "15.6' FHD 120Hz"
         }
       ],
       "agent_recommendation_rank": 7,
       "agent_recommendation_notes": [
-        "Good value for money",
-        "Reliable performance"
+        "Budget-friendly option with decent specs."
       ]
     },
     {
-      "page_url": "https://www.amazon.com/s?k=Gigabyte+Aorus+15P+gaming+laptop+Egypt",
-      "product_title": "Gigabyte Aorus 15P Gaming Laptop",
-      "product_image_url": "https://m.media-amazon.com/images/I/71K-vZ6mWL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8L",
-      "product_current_price": 1399.99,
-      "product_original_price": 1599.99,
-      "product_discount_percentage": 12.5,
+      "page_url": "https://www.amazon.eg/s?k=Acer+Predator+Helios+144Hz+gaming+laptop",
+      "product_title": "Acer Predator Helios 300 (Budget Config)",
+      "product_image_url": "https://m.media-amazon.com/images/I/81+l7zJn8dL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B08N5WNY6F",
+      "product_current_price": 1499.99,
+      "product_original_price": 1699.99,
+      "product_discount_percentage": 11.8,
       "product_specs": [
         {
           "specification_name": "Processor",
-          "specification_value": "Intel Core i7"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "32GB"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "1TB SSD"
+          "specification_value": "Intel i5-10300H"
         },
         {
           "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3070"
+          "specification_value": "NVIDIA GeForce RTX 3060"
         },
         {
           "specification_name": "Display",
-          "specification_value": "15.6' FHD 240Hz"
-        }
-      ],
-      "agent_recommendation_rank": 8,
-      "agent_recommendation_notes": [
-        "High-end performance",
-        "Premium build quality"
-      ]
-    },
-    {
-      "page_url": "https://www.amazon.com/s?k=Razer+Blade+15+gaming+laptop+Egypt",
-      "product_title": "Razer Blade 15 Gaming Laptop",
-      "product_image_url": "https://m.media-amazon.com/images/I/71L-vZ6mWL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8M",
-      "product_current_price": 1499.99,
-      "product_original_price": 1699.99,
-      "product_discount_percentage": 11.76,
-      "product_specs": [
-        {
-          "specification_name": "Processor",
-          "specification_value": "Intel Core i7"
+          "specification_value": "15.6\" FHD 144Hz"
         },
         {
           "specification_name": "RAM",
-          "specification_value": "16GB"
+          "specification_value": "8GB DDR4"
         },
         {
           "specification_name": "Storage",
           "specification_value": "512GB SSD"
+        }
+      ],
+      "agent_recommendation_rank": 8,
+      "agent_recommendation_notes": [
+        "Budget option with good gaming performance."
+      ]
+    },
+    {
+      "page_url": "https://www.amazon.eg/s?k=MSI+Stealth+15M+i7+11th+Gen+gaming+laptop",
+      "product_title": "MSI Stealth 15M (Budget Config)",
+      "product_image_url": "https://m.media-amazon.com/images/I/81hF2zJn8dL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B092T6ZJ8L",
+      "product_current_price": 1599.99,
+      "product_original_price": 1799.99,
+      "product_discount_percentage": 11.1,
+      "product_specs": [
+        {
+          "specification_name": "Processor",
+          "specification_value": "Intel i5-11300H"
         },
         {
           "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3070"
+          "specification_value": "NVIDIA GeForce RTX 3060"
         },
         {
           "specification_name": "Display",
-          "specification_value": "15.6' FHD 360Hz"
+          "specification_value": "15.6\" FHD 120Hz"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "8GB DDR4"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "512GB NVMe SSD"
         }
       ],
       "agent_recommendation_rank": 9,
       "agent_recommendation_notes": [
-        "Ultra-high refresh rate display",
-        "Premium design"
+        "Budget-friendly with good portability."
       ]
     },
     {
-      "page_url": "https://www.amazon.com/s?k=Alienware+m15+gaming+laptop+Egypt",
-      "product_title": "Alienware m15 Gaming Laptop",
-      "product_image_url": "https://m.media-amazon.com/images/I/71M-vZ6mWL._AC_SL1500_.jpg",
-      "product_url": "https://www.amazon.com/dp/B08Q3Q5Y8N",
-      "product_current_price": 1599.99,
-      "product_original_price": 1799.99,
-      "product_discount_percentage": 11.11,
+      "page_url": "https://www.amazon.eg/s?k=ASUS+ROG+Strix+RTX+3060+gaming+laptop",
+      "product_title": "ASUS ROG Strix G15 (Refurbished)",
+      "product_image_url": "https://m.media-amazon.com/images/I/81+l7zJn8dL._AC_SL1500_.jpg",
+      "product_url": "https://www.amazon.eg/dp/B09T2Z7W8E",
+      "product_current_price": 1449.99,
+      "product_original_price": 1649.99,
+      "product_discount_percentage": 12.1,
       "product_specs": [
         {
           "specification_name": "Processor",
-          "specification_value": "Intel Core i7"
-        },
-        {
-          "specification_name": "RAM",
-          "specification_value": "32GB"
-        },
-        {
-          "specification_name": "Storage",
-          "specification_value": "1TB SSD"
+          "specification_value": "Ryzen 7 5800H"
         },
         {
           "specification_name": "Graphics",
-          "specification_value": "NVIDIA GeForce RTX 3080"
+          "specification_value": "NVIDIA GeForce RTX 3060"
         },
         {
           "specification_name": "Display",
-          "specification_value": "15.6' FHD 300Hz"
+          "specification_value": "15.6\" FHD 144Hz"
+        },
+        {
+          "specification_name": "RAM",
+          "specification_value": "16GB DDR4"
+        },
+        {
+          "specification_name": "Storage",
+          "specification_value": "512GB SSD"
         }
       ],
       "agent_recommendation_rank": 10,
       "agent_recommendation_notes": [
-        "Top-tier performance",
-        "Iconic Alienware design"
+        "Refurbished option with great value for money."
       ]
     }
   ]

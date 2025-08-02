@@ -1,5 +1,4 @@
 import os
-import agentops
 from crewai import LLM
 from routers import CrewRouter
 from fastapi import FastAPI
@@ -18,15 +17,6 @@ async def startup_event():
     """
     env_settings = get_settings()
     os.environ["COHERE_API_KEY"] = env_settings.COHERE_API_KEY
-    os.environ["AGENTOPS_API_KEY"] = env_settings.AGENTOPS_API_KEY
-
-    agentops.init(
-        api_key=os.environ["AGENTOPS_API_KEY"],
-        skip_auto_end_session=True,
-        default_tags=['crewai'],
-            log_file="/tmp/agentops.log"
-    )
-
     app.basic_llm = LLM(model=env_settings.LLM, temperature=0)
     app.search_client = TavilyClient(api_key=env_settings.TAVILY_API_KEY)
     app.scrape_client = Client(api_key=env_settings.SCRAPEGRAPH_API_KEY)

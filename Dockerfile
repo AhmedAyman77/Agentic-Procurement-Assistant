@@ -11,7 +11,6 @@ COPY src ./src
 
 # Ensure Python can find all modules in /app/src
 ENV PYTHONPATH=/app/src
-ENV AGENTOPS_LOG_FILE=/tmp/agentops.log
 
 EXPOSE 8000
 
