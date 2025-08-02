@@ -33,5 +33,7 @@ jobs:
           HF_TOKEN: ${{secrets.HF_TOKEN}}
         run: |
           git remote add hf https://huggingface.co/spaces/A7medAyman/Agentic-Procurement-Assistant
+          git add .
+          git commit -m "Update code for Hugging Face Space" || echo "No changes to commit"
           git fetch hf
           git push hf main --force
