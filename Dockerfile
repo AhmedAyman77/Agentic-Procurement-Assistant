@@ -2,9 +2,11 @@ FROM python:3.11-slim
 
 WORKDIR /app
 
-COPY requirements.txt .
+# Copy only requirements first to leverage Docker layer caching
+COPY src/requirements.txt ./requirements.txt
 RUN pip install --upgrade pip && pip install -r requirements.txt
 
+# Then copy the rest of the app
 COPY src ./src
 
 EXPOSE 8000
