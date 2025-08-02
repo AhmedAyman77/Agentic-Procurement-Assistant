@@ -10,6 +10,12 @@ from crewai.knowledge.source.string_knowledge_source import StringKnowledgeSourc
 
 app = FastAPI()
 
+
+os.environ["XDG_CACHE_HOME"] = "/app/cache"
+os.environ["XDG_CONFIG_HOME"] = "/app/config"
+os.environ["PYTHONUSERBASE"] = "/app/.pythonuserbase"
+os.environ["HOME"] = "/app"
+
 @app.on_event("startup")
 async def startup_event():
     """
