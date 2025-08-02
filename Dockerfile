@@ -1,12 +1,11 @@
 FROM python:3.11-slim
 
-# Create a non-root user and home directory for Hugging Face Spaces compatibility
 RUN useradd -m user
 USER user
 WORKDIR /home/user/app
 
-# Copy requirements and install dependencies
 COPY src/requirements.txt ./requirements.txt
+
 ENV HOME=/home/user
 ENV XDG_CACHE_HOME=/home/user/.cache
 ENV XDG_CONFIG_HOME=/home/user/.config
@@ -15,6 +14,7 @@ ENV TRANSFORMERS_CACHE=/home/user/.cache/transformers
 ENV HF_HOME=/home/user/.cache/huggingface
 ENV HF_DATASETS_CACHE=/home/user/.cache/huggingface/datasets
 ENV PYTHONPATH=/home/user/app/src
+ENV PATH="/home/user/.pythonuserbase/bin:${PATH}"
 
 RUN mkdir -p /home/user/.cache \
     /home/user/.config \
@@ -22,9 +22,8 @@ RUN mkdir -p /home/user/.cache \
     /home/user/.cache/transformers \
     /home/user/.cache/huggingface/datasets
 
-RUN pip install --upgrade pip && pip install --no-cache-dir --force-reinstall -r requirements.txt
+RUN pip install --upgrade pip && pip install --no-cache-dir --force-reinstall --user -r requirements.txt
 
-# Copy the rest of the app
 COPY src ./src
 
 EXPOSE 7860
