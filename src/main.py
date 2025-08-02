@@ -17,7 +17,6 @@ async def startup_event():
     Startup event to initialize resources.
     """
     env_settings = get_settings()
-    os.environ["AGENTOPS_LOG_FILE"] = "/tmp/agentops.log"
     os.environ["COHERE_API_KEY"] = env_settings.COHERE_API_KEY
     os.environ["AGENTOPS_API_KEY"] = env_settings.AGENTOPS_API_KEY
 
